@@ -1,0 +1,204 @@
+{
+  "main": {
+    "id": "be08c4446937c525",
+    "type": "split",
+    "children": [
+      {
+        "id": "e6951dd7016ef8ab",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "712a50361ece8850",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "有机化学/Files/Pasted image 20230226215120.png"
+              }
+            }
+          },
+          {
+            "id": "97afd886d47d5551",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "快速系列/快速基物3/快速基物3.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9f978b5874945bb8",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "116a776cf55a8bb5",
+    "type": "split",
+    "children": [
+      {
+        "id": "a4b6940cd49cecc2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "90c096f9d11a4064",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "69f29180352531d6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#识别识别亲核试剂",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b5dc33955a2cb310",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "473df9f1d9a76a3f",
+    "type": "split",
+    "children": [
+      {
+        "id": "094fd5dbfc04b453",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f1a5d55312973ffd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "98db01b2682c05c9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f12aefdb5587dbad",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "29adc92a08311913",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "18b4588b3a12424b",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "workspaces:管理工作区布局": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "9f978b5874945bb8",
+  "lastOpenFiles": [
+    "快速系列/快速系列.md",
+    "快速系列",
+    "有机化学/有机反应.md",
+    "快速系列/快速基物3/快速基物3.md",
+    "快速系列/快速基物3/快速热力学.md",
+    "有机化学/分子结构.md",
+    "Pasted image 20230226215337.png",
+    "有机化学/Files/Pasted image 20230226213430.png",
+    "有机化学/Files/Pasted image 20230226215120.png",
+    "有机化学/Files/Pasted image 20230226210941.png",
+    "有机化学/快速有机.md",
+    "Pasted image 20230226201625.png",
+    "快速系列/快速基物3/快速光学.md",
+    "2023-02-26.md",
+    "快速系列/快速基物3/Files/v2-b79c458a120774590d1306ec41a38b4b_720w.webp",
+    "快速基物3/Files/Pasted image 20230226081308.png",
+    "快速系列/快速基物3/Files/Pasted image 20230226081313.png",
+    "快速系列/快速基物3/Files/Pasted image 20230226081342.png",
+    "有机化学/Files/无法解释.png",
+    "有机化学/Files",
+    "快速系列/快速基物3/Files",
+    "有机化学",
+    "b2de9c82d158ccbf5821f51e19d8bc3eb1354170.gif.md",
+    "2sss.md",
+    "快速系列/快速基物3"
+  ]
+}

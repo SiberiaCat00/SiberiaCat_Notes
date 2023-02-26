@@ -1,0 +1,155 @@
+{
+  "strategy": "default",
+  "matchStrategy": "prefix",
+  "maxNumberOfSuggestions": 5,
+  "maxNumberOfWordsAsPhrase": 3,
+  "minNumberOfCharactersTriggered": 0,
+  "minNumberOfWordsTriggeredPhrase": 1,
+  "complementAutomatically": true,
+  "delayMilliSeconds": 0,
+  "disableSuggestionsDuringImeOn": false,
+  "insertAfterCompletion": true,
+  "firstCharactersDisableSuggestions": ":/^",
+  "showMatchStrategy": true,
+  "showComplementAutomatically": true,
+  "showIndexingStatus": true,
+  "descriptionOnSuggestion": "Short",
+  "selectSuggestionKeys": "Enter",
+  "additionalCycleThroughSuggestionsKeys": "None",
+  "disableUpDownKeysForCycleThroughSuggestionsKeys": false,
+  "openSourceFileKey": "None",
+  "propagateEsc": false,
+  "enableCurrentFileComplement": true,
+  "currentFileMinNumberOfCharacters": 0,
+  "onlyComplementEnglishOnCurrentFileComplement": false,
+  "enableCurrentVaultComplement": false,
+  "currentVaultMinNumberOfCharacters": 0,
+  "includeCurrentVaultPathPrefixPatterns": "",
+  "excludeCurrentVaultPathPrefixPatterns": "",
+  "includeCurrentVaultOnlyFilesUnderCurrentDirectory": false,
+  "enableCustomDictionaryComplement": false,
+  "customDictionaryPaths": "https://raw.githubusercontent.com/first20hours/google-10000-english/master/google-10000-english-no-swears.txt",
+  "columnDelimiter": "Tab",
+  "customDictionaryWordRegexPattern": "",
+  "delimiterToHideSuggestion": "",
+  "delimiterToDivideSuggestionsForDisplayFromInsertion": "",
+  "caretLocationSymbolAfterComplement": "",
+  "displayedTextSuffix": " => ...",
+  "enableInternalLinkComplement": true,
+  "suggestInternalLinkWithAlias": false,
+  "excludeInternalLinkPathPrefixPatterns": "",
+  "enableFrontMatterComplement": true,
+  "frontMatterComplementMatchStrategy": "inherit",
+  "insertCommaAfterFrontMatterCompletion": false,
+  "intelligentSuggestionPrioritization": {
+    "maxDaysToKeepHistory": 30,
+    "maxNumberOfHistoryToKeep": 0
+  },
+  "showLogAboutPerformanceInConsole": false,
+  "selectionHistoryTree": {
+    "热力学第零定律——如果两个热力学系统中的每一个都与第三个热力学系统处于热平衡": {
+      "热力学第零定律——如果两个热力学系统中的每一个都与第三个热力学系统处于热平衡": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1677306870624
+        }
+      }
+    },
+    "热力学第一定律——能量守恒定律在热学形式的表现。它指出热是物质运动的一种形式，并表明，一个体系内能增加的量值△E（": {
+      "热力学第一定律——能量守恒定律在热学形式的表现。它指出热是物质运动的一种形式，并表明，一个体系内能增加的量值△E（": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1677307020514
+        }
+      }
+    },
+    "方均根遮事：大量分子的速率平方平均值的平方根、": {
+      "方均根遮事：大量分子的速率平方平均值的平方根、": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1677308500997
+        }
+      }
+    },
+    "asdasdas": {
+      "asdasdas": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1677309902717
+        }
+      }
+    },
+    "分振幅干涉": {
+      "分振幅干涉": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1677312000331
+        }
+      }
+    },
+    "\\varDelta": {
+      "\\varDelta": {
+        "currentFile": {
+          "count": 8,
+          "lastUpdated": 1677320749314
+        }
+      }
+    },
+    "下文：n为折射率，r_i为在第i段介质中传播的几何路程": {
+      "下文：n为折射率，r_i为在第i段介质中传播的几何路程": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1677314304811
+        }
+      }
+    },
+    "注意使用透镜不会带来光程差（证明复杂）。下面还有一些其他的事件对光程差的影响：": {
+      "注意使用透镜不会带来光程差（证明复杂）。下面还有一些其他的事件对光程差的影响：": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1677314408015
+        }
+      }
+    },
+    "一些现象：": {
+      "一些现象：": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1677320228070
+        }
+      }
+    },
+    "中间光路巨复杂，建议直接不分析，知道下列这个公式就行了：": {
+      "中间光路巨复杂，建议直接不分析，知道下列这个公式就行了：": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1677320606248
+        }
+      }
+    },
+    "\\varDelta_1": {
+      "\\varDelta_1": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1677320654964
+        }
+      }
+    },
+    "同一厚度对应同一级条纹，也就是等厚条纹": {
+      "同一厚度对应同一级条纹，也就是等厚条纹": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1677389550276
+        }
+      }
+    },
+    "注意以下代换：": {
+      "注意以下代换：": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1677390086556
+        }
+      }
+    }
+  }
+}
