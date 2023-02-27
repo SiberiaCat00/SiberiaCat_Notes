@@ -11,9 +11,25 @@
             "id": "712a50361ece8850",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "有机化学/Files/Pasted image 20230226215120.png"
+                "file": "有机化学/有机反应.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "932754542747f941",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "有机化学/对羰基的亲核加成.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           },
@@ -29,19 +45,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "9f978b5874945bb8",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Books/clayden-chinese-20221228.pdf"
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -107,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Books/clayden-chinese-20221228.pdf",
+                "file": "有机化学/对羰基的亲核加成.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Books/clayden-chinese-20221228.pdf",
+                "file": "有机化学/对羰基的亲核加成.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Books/clayden-chinese-20221228.pdf"
+                "file": "有机化学/对羰基的亲核加成.md"
               }
             }
           },
@@ -179,36 +185,39 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9f978b5874945bb8",
+  "active": "932754542747f941",
   "lastOpenFiles": [
-    "有机化学/Files/Pasted image 20230226215337.png",
+    "有机化学/对羰基的亲核加成.md",
+    "有机化学/有机反应.md",
+    "未命名",
+    "有机化学/分子结构.md",
+    "有机化学/Files/Pasted image 20230226215120.png",
+    "快速系列/快速基物3/快速基物3.md",
     "Books/clayden-chinese-20221228.pdf",
+    "Pasted image 20230227162647.png",
+    "Pasted image 20230227162341.png",
+    "有机化学/Files/Pasted image 20230227161852.png",
+    "有机化学/Files/Pasted image 20230227161305.png",
+    "分析学（Eng）/Classical Differential Manifold.md",
+    "分析学（Eng）",
+    "Books/Herbert Amann, Joachim Escher - Analysis III-Birkhäuser (2009).pdf",
+    "Books/Herbert Amann, Joachim Escher - Analysis II-Birkhäuser Basel (2008).pdf",
+    "Books/~syncthing~Herbert Amann, Joachim Escher - Analysis III-Birkhäuser (2009).pdf.tmp",
+    "Books/~syncthing~Herbert Amann, Joachim Escher - Analysis II-Birkhäuser Basel (2008).pdf.tmp",
+    "有机化学/Files/Pasted image 20230226215337.png",
     "Books",
     "新建文件夹 (2)",
     "新建文件夹",
-    "有机化学/有机反应.md",
     "快速系列/快速系列.md",
-    "快速系列",
-    "快速系列/快速基物3/快速基物3.md",
     "快速系列/快速基物3/快速热力学.md",
-    "有机化学/分子结构.md",
     "有机化学/Files/Pasted image 20230226213430.png",
-    "有机化学/Files/Pasted image 20230226215120.png",
     "有机化学/Files/Pasted image 20230226210941.png",
     "有机化学/快速有机.md",
     "Pasted image 20230226201625.png",
     "快速系列/快速基物3/快速光学.md",
     "2023-02-26.md",
     "快速系列/快速基物3/Files/v2-b79c458a120774590d1306ec41a38b4b_720w.webp",
-    "快速基物3/Files/Pasted image 20230226081308.png",
-    "快速系列/快速基物3/Files/Pasted image 20230226081313.png",
-    "快速系列/快速基物3/Files/Pasted image 20230226081342.png",
-    "有机化学/Files/无法解释.png",
-    "有机化学/Files",
-    "快速系列/快速基物3/Files",
-    "有机化学",
     "b2de9c82d158ccbf5821f51e19d8bc3eb1354170.gif.md",
-    "2sss.md",
-    "快速系列/快速基物3"
+    "2sss.md"
   ]
 }

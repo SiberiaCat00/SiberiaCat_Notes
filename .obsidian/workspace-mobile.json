@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "498a03fe57719d61",
+        "id": "c37b15c3d411aea5",
         "type": "tabs",
         "children": [
           {
-            "id": "8b44984bd17ea8d1",
+            "id": "1f548a4efb815707",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "有机化学/有机反应.md",
+                "file": "分析学（Eng）/Classical Differential Manifold.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "有机化学/有机反应.md",
+            "file": "分析学（Eng）/Classical Differential Manifold.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "有机化学/有机反应.md",
+            "file": "分析学（Eng）/Classical Differential Manifold.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -115,7 +115,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "有机化学/有机反应.md"
+            "file": "分析学（Eng）/Classical Differential Manifold.md"
           }
         }
       }
@@ -134,6 +134,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8b44984bd17ea8d1",
-  "lastOpenFiles": []
+  "active": "1f548a4efb815707",
+  "lastOpenFiles": [
+    "快速系列/快速系列.md",
+    "分析学（Eng）/Classical Differential Manifold.md",
+    "有机化学/有机反应.md",
+    "分析学（Eng）",
+    "有机化学/Files/Pasted image 20230226215337.png",
+    "Books/Herbert Amann, Joachim Escher - Analysis III-Birkhäuser (2009).pdf",
+    "Books/Herbert Amann, Joachim Escher - Analysis II-Birkhäuser Basel (2008).pdf",
+    "Books/clayden-chinese-20221228.pdf",
+    "Books"
+  ]
 }
