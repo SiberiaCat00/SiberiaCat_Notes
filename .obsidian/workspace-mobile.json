@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "分析学（Eng）/Classical Differential Manifold.md",
-                "mode": "source",
+                "file": "有机化学/有机反应.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -86,7 +86,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "分析学（Eng）/Classical Differential Manifold.md",
+            "file": "有机化学/有机反应.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "分析学（Eng）/Classical Differential Manifold.md",
+            "file": "有机化学/有机反应.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -115,7 +115,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "分析学（Eng）/Classical Differential Manifold.md"
+            "file": "有机化学/有机反应.md"
           }
         }
       }
@@ -136,8 +136,12 @@
   },
   "active": "1f548a4efb815707",
   "lastOpenFiles": [
-    "快速系列/快速系列.md",
     "分析学（Eng）/Classical Differential Manifold.md",
+    "Pasted image 20230227162647.png",
+    "Pasted image 20230227162341.png",
+    "有机化学/Files/Pasted image 20230227161852.png",
+    "有机化学/Files/Pasted image 20230227161305.png",
+    "快速系列/快速系列.md",
     "有机化学/有机反应.md",
     "分析学（Eng）",
     "有机化学/Files/Pasted image 20230226215337.png",

@@ -12,4 +12,4 @@ The map $\varphi$ is called an **m-dimensional(local) $C^q$ chart of $M$ around 
 
 Some names:
 * $U$ is charted territory of $\varphi$
-* $V$ is parameter range
+* $V$ is parameter range.
