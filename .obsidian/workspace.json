@@ -4,72 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "e6951dd7016ef8ab",
+        "id": "07b6b50bf4a8f139",
         "type": "tabs",
         "children": [
           {
-            "id": "712a50361ece8850",
+            "id": "5aa03a381064d9d9",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "67a12c1411ef49d5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "有机化学/有机反应.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "932754542747f941",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "有机化学/对羰基的亲核加成.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "97afd886d47d5551",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "分析学（Eng）/Books/Herbert Amann, Joachim Escher - Analysis II-Birkhäuser Basel (2008).pdf"
-              }
-            }
-          },
-          {
-            "id": "9a10d76a9fa02b36",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "分析学（Eng）/Books/Herbert Amann, Joachim Escher - Analysis II-Birkhäuser Basel (2008).pdf"
-              }
-            }
-          },
-          {
-            "id": "5b859818e3a40aca",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "分析学（Eng）/Books/Herbert Amann, Joachim Escher - Analysis III-Birkhäuser (2009).pdf"
-              }
-            }
-          },
-          {
-            "id": "a6289ac39764409f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "分析学（Eng）/Classical Differential Manifold.md",
+                "file": "Design.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
@@ -77,7 +29,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -127,8 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 210.5
   },
   "right": {
     "id": "473df9f1d9a76a3f",
@@ -144,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "分析学（Eng）/Classical Differential Manifold.md",
+                "file": "Design.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "分析学（Eng）/Classical Differential Manifold.md",
+                "file": "Design.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "分析学（Eng）/Classical Differential Manifold.md"
+                "file": "Design.md"
               }
             }
           },
@@ -197,7 +148,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -212,42 +163,59 @@
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "workspaces:管理工作区布局": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "markdown-table-editor:Open Markdown Table Editor": false,
+      "obsidian-extract-pdf-highlights:PDF Highlights": false,
+      "obsidian-ocr:Search OCR": false
     }
   },
-  "active": "a6289ac39764409f",
+  "active": "67a12c1411ef49d5",
   "lastOpenFiles": [
-    "分析学（Eng）/Books/Herbert Amann, Joachim Escher - Analysis II-Birkhäuser Basel (2008).pdf",
-    "分析学（Eng）/Books/Herbert Amann, Joachim Escher - Analysis III-Birkhäuser (2009).pdf",
-    "分析学（Eng）/Books",
+    "Design.md",
+    "基础集合相关/Relations.md",
+    "Temp",
+    "有机化学/醚类化合物.md",
     "有机化学/对羰基的亲核加成.md",
-    "有机化学/有机反应.md",
-    "有机化学/分子结构.md",
-    "有机化学/Books/clayden-chinese-20221228.pdf",
-    "有机化学/Files/Pasted image 20230227173403.png",
-    "有机化学/Files/Pasted image 20230227162341.png",
-    "有机化学/Files/Pasted image 20230227170534.png",
-    "有机化学/Files/Pasted image 20230227170522.png",
-    "有机化学/Files/Pasted image 20230227165756.png",
-    "快速系列/快速基物3/快速基物3.md",
-    "有机化学/Files/Pasted image 20230227162647.png",
-    "有机化学/Files/Pasted image 20230226215120.png",
-    "有机化学/Files/Pasted image 20230227161852.png",
-    "有机化学/Files/Pasted image 20230227161305.png",
-    "分析学（Eng）/Classical Differential Manifold.md",
-    "分析学（Eng）",
-    "Books/~syncthing~Herbert Amann, Joachim Escher - Analysis III-Birkhäuser (2009).pdf.tmp",
-    "Books/~syncthing~Herbert Amann, Joachim Escher - Analysis II-Birkhäuser Basel (2008).pdf.tmp",
-    "有机化学/Files/Pasted image 20230226215337.png",
-    "有机化学/Books",
-    "新建文件夹 (2)",
-    "新建文件夹",
-    "快速系列/快速系列.md",
+    "有机化学/酚类化合物.md",
+    "有机化学/基本有机反应机理.md",
+    "有机化学/离去基团.md",
+    "现代仪器分析/原子吸收光谱法.md",
+    "现代仪器分析/原子发射光谱法.md",
+    "现代仪器分析/光分析法导论.md",
+    "物理化学/books/物理化学 (傅献彩) (Z-Library).pdf",
+    "物理化学/热力学四大定律.md",
+    "物理化学/分子运动和物态.md",
+    "物理学基础/物理的语言.md",
+    "物理化学/files/Pasted image 20230303224335.png",
+    "物理化学/files/Pasted image 20230303224327.png",
+    "物理化学/files/Pasted image 20230303223647.png",
+    "物理化学/files/Pasted image 20230303223609.png",
+    "物理化学/files/Pasted image 20230303220521.png",
+    "物理化学/files/Pasted image 20230303220341.png",
+    "分析学和拓扑/Fliter, Net and Convergence.md",
+    "分析学和拓扑/Complete metric spaces.md",
+    "分析学和拓扑/Hilbert Spaces and Dual Mapping.md",
+    "分析学和拓扑/Books/Convergence Theorey.pdf",
+    "分析学和拓扑/~syncthing~Fliter, Net and Convergence.md.tmp",
+    "分析学和拓扑/Books/Herbert Amann, Joachim Escher - Analysis II-Birkhäuser Basel (2008).pdf",
+    "分析学和拓扑/Books/Herbert Amann, Joachim Escher - Analysis III-Birkhäuser (2009).pdf",
+    "Untitled",
     "快速系列/快速基物3/快速热力学.md",
-    "有机化学/快速有机.md",
+    "~syncthing~醚类化合物.md.tmp",
+    "~syncthing~酚类化合物.md.tmp",
+    "分析学和拓扑/Bounded Linear Operator of Banach spaces.md",
+    "分析学和拓扑/Classical Differential Manifold.md",
+    "快速系列/快速基物3/快速基物3.md",
+    "~syncthing~光分析法导论.md.tmp",
+    "Untitled.md",
+    "有机化学/分子结构.md",
+    "物理化学/热力学.md",
+    "物理化学/files/Pasted image 20230301174957.png",
+    "物理化学/files/Pasted image 20230301174936.png",
+    "物理化学/files/Pasted image 20230301172659.png",
+    "物理化学/files/Pasted image 20230301172352.png",
     "快速系列/快速基物3/快速光学.md",
-    "2023-02-26.md",
-    "b2de9c82d158ccbf5821f51e19d8bc3eb1354170.gif.md",
-    "2sss.md"
+    "分析学（Eng）/Hilbert Spaces and Dual Mapping.md",
+    "分析学（Eng）/Classical Differential Manifold.md"
   ]
 }

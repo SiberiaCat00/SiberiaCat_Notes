@@ -1,0 +1,16 @@
+# Definition of complete metric spaces
+	Here are some alternative definition of complete
+# complete metric spaces
+## Definition: By closed ball filter
+$X$ is compact $\Leftrightarrow$ For all partially ordered set $I$, for all $\{\varepsilon_i\}$ such that $\varepsilon_i\rightarrow 0$, $\varepsilon_i \textgreater 0$ and for $r_i\in X$ such that $$i< j \Rightarrow \overline{\mathbb B(x_j,\varepsilon_j)}\subseteq \overline{\mathbb B(x_i,\varepsilon_i)}$$(Called **closed ball Filter basis**), there exist a unique $x$ such that$$x \in \bigcap_{i\in I}\overline{B(x_i,\varepsilon_i)}$$
+>In this case, $$\lim_{i\in I} \overline{B(x_i,\varepsilon_i)}=\lim_{i\in I} {B(x_i,\varepsilon_i)}= x$$Proof: For any $\varepsilon>0$, there is a $n\in I$ such that $m>n\Rightarrow \varepsilon_m<\varepsilon/3$. Thus$$d(x_m,x)\leq d(x_m,x_n)+d(x_n,x)\leq 2\varepsilon/3< \varepsilon$$ 
+## Definition: By Cauchy net
+$X$ is compact $\Leftrightarrow$ For all net $\{x_i\}$ in $X$ such that $\varepsilon\textgreater0\Rightarrow$there exists $i_0\in I$ such that $m,n > i\Rightarrow d(x_m,x_n )< \varepsilon$ (called **Cauthy net**) ,  $x_i$ converges to some $x$ in $X$.
+>Prove: They are equal.
+>* $1\Rightarrow2$. Assume $x_n$ is a Cauthy net, then it is easy to prove there exists $n_1<n_2<n_3.....$ in $I$ such that $$m,n\geq n_k\Rightarrow d(x_n,x_m)<1/2^{k+1}$$Hence for any $y\in \overline{B(x_{n_{k+1}},1/2^{k+1})}$ $$d(x_{n_k},y)\leq d(x_{n_k},x_{n_{k+1}})+d(x_{n_{k+1}},y) <1/2^{k}$$Hence $\{\overline{B(x_{n_k},1/2^k)}\}_{k\in \mathbb Z}$ is a closed set nest.  By closed ball theorem, there exists a unique $$x := \lim_{k\in \mathbb Z}\overline{B(x_{n_k},1/2^k)}$$ $n>n_k\Rightarrow x_n\in\{\overline{B(x_{n_k},1/2^k)}\}$, so $\{x_n\}_{n\in I}$ is a subnet of $\{\overline{B(x_{n_k},1/2^k)}\}_{k\in \mathbb Z}$ Hence $x_n$ converges to $x$.
+>* $2\Rightarrow1$. Assume $\overline{S_i}(x_i,\varepsilon_i)$ are closed ball Filter basis, then $x_i$ is  a cauthy net. Hence we set $x_i\rightarrow x$. It is trival that $i<j\Rightarrow x_j\in\overline{S_i}(x_i,\varepsilon_i)$, and $\overline{S_i}(x_i,\varepsilon_i)$ is closed, by **convergent sequence in closed set**, $x\in\overline{S_i}(x_i,\varepsilon_i)$.
+## Definition: Shrink filter basis
+For all $\mathbb F = \{S_i\}$ is a Filter and $$\lim_{S_i\in\mathbb F} diam(S) = 0$$(called **skrink Filter basis**)There exist a $x$ such that $$x:= \lim_{S\in \mathbb F} S$$
+>Sketch of proof: 
+>* 1 $\Rightarrow$ 3. Assume $\mathbb F = \{S_i\}$ is a shrink Filter basis then it is easy to prove there exists $n_1<n_2<n_3.....$ in $I$ such that $$n\geq n_k\Rightarrow diam(S_n)<1/2^{k+1}$$ Use AC to choose $x_i \in S_i$. Assume $(m>n)$. For $y\in \overline{\mathbb B(x_{n_{i+1}},1/2^{k+1})}$, $$d(y,x_n) \leq d(y,x_m)+d(x_m,x_n)\leq 1/2^{k}$$Hence $\{\overline{B(x_{n_k},1/2^k)}\}_{k\in \mathbb Z}$ is a closed set nest. By closed ball theorem, there exists a unique $$x := \lim_{k\in \mathbb Z}\overline{B(x_{n_k},1/2^k)}$$Because $n\geq n_k\Rightarrow S_n\subseteq\overline{B(x_{n_k},1/2^k)}$, $\{S_i\}_{i\in I}$ is a sub Filter basis of $\{B(x_{n_k},1/2^k)\}_{k\in \mathbb N}$, Hence $x = \lim_{S\in \mathbb F} S$
+>* $3\Rightarrow 1$ Trival

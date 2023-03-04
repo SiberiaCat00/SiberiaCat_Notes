@@ -27,7 +27,7 @@
   "includeCurrentVaultPathPrefixPatterns": "",
   "excludeCurrentVaultPathPrefixPatterns": "",
   "includeCurrentVaultOnlyFilesUnderCurrentDirectory": false,
-  "enableCustomDictionaryComplement": false,
+  "enableCustomDictionaryComplement": true,
   "customDictionaryPaths": "https://raw.githubusercontent.com/first20hours/google-10000-english/master/google-10000-english-no-swears.txt",
   "columnDelimiter": "Tab",
   "customDictionaryWordRegexPattern": "",
@@ -148,6 +148,206 @@
         "currentFile": {
           "count": 1,
           "lastUpdated": 1677390086556
+        }
+      }
+    },
+    "definition": {
+      "definition": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1677816691761
+        }
+      }
+    },
+    "热力学研究的事静态系统（系统统计量不随时间变化），": {
+      "热力学研究的事静态系统（系统统计量不随时间变化），": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1677814696641
+        }
+      }
+    },
+    "Convergence": {
+      "Convergence": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1677816655393
+        }
+      }
+    },
+    "filter": {
+      "filter": {
+        "currentFile": {
+          "count": 4,
+          "lastUpdated": 1677833439241
+        }
+      }
+    },
+    "\\mathcal": {
+      "\\mathcal": {
+        "currentFile": {
+          "count": 13,
+          "lastUpdated": 1677832954394
+        }
+      }
+    },
+    "analysis": {
+      "analysis": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1677816961850
+        }
+      }
+    },
+    "converges": {
+      "converges": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1677832514454
+        }
+      }
+    },
+    "\\Leftrightarrow": {
+      "\\Leftrightarrow": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1677832531114
+        }
+      }
+    },
+    "\\forall": {
+      "\\forall": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1677832710366
+        }
+      }
+    },
+    "\\exists": {
+      "\\exists": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1677832602183
+        }
+      }
+    },
+    "subfilter": {
+      "subfilter": {
+        "currentFile": {
+          "count": 3,
+          "lastUpdated": 1677835428761
+        }
+      }
+    },
+    "特诊光谱识别元素": {
+      "特诊光谱识别元素": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1677824494993
+        }
+      }
+    },
+    "已经准确测量": {
+      "已经准确测量": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1677825303229
+        }
+      }
+    },
+    "定量分析基础": {
+      "定量分析基础": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1677825318229
+        }
+      }
+    },
+    "div": {
+      "div": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1677829755111
+        }
+      }
+    },
+    "\\rightarrow": {
+      "\\rightarrow": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1677832853465
+        }
+      }
+    },
+    "\\Rightarrow": {
+      "\\Rightarrow": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1677832671768
+        }
+      }
+    },
+    "equal": {
+      "equal": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1677832827342
+        }
+      }
+    },
+    "\\mathbb": {
+      "\\mathbb": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1677832871617
+        }
+      }
+    },
+    "Subfilter": {
+      "Subfilter": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1677833427460
+        }
+      }
+    },
+    "convergence": {
+      "convergence": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1677833750328
+        }
+      }
+    },
+    "Filter": {
+      "Filter": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1677835410232
+        }
+      }
+    },
+    "purple": {
+      "purple": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1677895326793
+        }
+      }
+    },
+    "\\ce{Fe^3+}": {
+      "\\ce{Fe^3+}": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1677895689403
+        }
+      }
+    },
+    "\\ce{K": {
+      "\\ce{K": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1677895730447
         }
       }
     }
