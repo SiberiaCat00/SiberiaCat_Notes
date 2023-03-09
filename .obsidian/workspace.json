@@ -8,19 +8,43 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5aa03a381064d9d9",
+            "id": "ef3decd23d406ddd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "有机化学/对羰基的亲核加成.md",
+                "file": "有机化学/离域与共轭.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
+          },
+          {
+            "id": "badead9384180b42",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "有机化学/酸碱理论和$pK_a$.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9ad7b7acf4958482",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "物理化学/files/Pasted image 20230307181851.png"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -49,10 +73,10 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": " ",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": true,
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
@@ -86,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "有机化学/对羰基的亲核加成.md",
+                "file": "有机化学/酸碱理论和$pK_a$.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "有机化学/对羰基的亲核加成.md",
+                "file": "有机化学/酸碱理论和$pK_a$.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "有机化学/对羰基的亲核加成.md"
+                "file": "有机化学/酸碱理论和$pK_a$.md"
               }
             }
           },
@@ -155,58 +179,55 @@
       "command-palette:打开命令面板": false,
       "workspaces:管理工作区布局": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "markdown-table-editor:Open Markdown Table Editor": false,
-      "obsidian-extract-pdf-highlights:PDF Highlights": false,
-      "obsidian-ocr:Search OCR": false
+      "markdown-table-editor:Open Markdown Table Editor": false
     }
   },
-  "active": "5aa03a381064d9d9",
+  "active": "badead9384180b42",
   "lastOpenFiles": [
-    "有机化学/Files/Pasted image 20230305115916.png",
-    "有机化学/Files/Pasted image 20230305115628.png",
-    "有机化学/Files/9825bc315c6034a8e7a65813c5134954082376d8.webp",
-    "有机化学/Files/Pasted image 20230305114100.png",
-    "有机化学/Files/Pasted image 20230305112746.png",
-    "有机化学/Files/Pasted image 20230305112507.png",
-    "有机化学/Files/Pasted image 20230305112330.png",
-    "有机化学/Files/Pasted image 20230305105356.png",
-    "有机化学/Files/Pasted image 20230305104802.png",
-    "有机化学/对羰基的亲核加成.md",
-    "有机化学/Files/Pasted image 20230305103948.png",
-    "有机化学/Files/Pasted image 20230305103428.png",
-    "Design.md",
-    "基础集合相关/Relations.md",
-    "Temp",
+    "有机化学/离域与共轭.md",
     "有机化学/醚类化合物.md",
-    "有机化学/酚类化合物.md",
+    "有机化学/酸碱理论和$pK_a$.md",
+    "化学平衡.md",
+    "~syncthing~化学平衡.md.tmp",
+    "有机化学/分子结构.md",
+    "有机化学/对羰基的亲核加成.md",
     "有机化学/基本有机反应机理.md",
-    "有机化学/离去基团.md",
-    "现代仪器分析/原子吸收光谱法.md",
-    "现代仪器分析/原子发射光谱法.md",
-    "现代仪器分析/光分析法导论.md",
-    "物理化学/books/物理化学 (傅献彩) (Z-Library).pdf",
+    "有机化学/酚类化合物.md",
+    "有机化学/Files/Pasted image 20230308211154.png",
+    "有机化学/Files/Pasted image 20230308210817.png",
+    "有机化学/Files/Pasted image 20230308210502.png",
+    "有机化学/Files/Pasted image 20230308205940.png",
+    "有机化学/Files/Pasted image 20230308205841.png",
+    "有机化学/Files/Pasted image 20230308204906.png",
+    "有机化学/Files/Pasted image 20230308204004.png",
+    "有机化学/Files/Pasted image 20230308203719.png",
+    "有机化学/Files/Pasted image 20230308202931.png",
+    "有机化学/Files/Pasted image 20230308201842.png",
+    "代数学/~syncthing~Basic Category.md.tmp",
+    "物理学基础/~syncthing~物理的语言.md.tmp",
+    "现代仪器分析/~syncthing~原子吸收光谱法.md.tmp",
+    "物理化学/~syncthing~热力学四大定律.md.tmp",
+    "物理化学/化合物的颜色.md",
     "物理化学/热力学四大定律.md",
     "物理化学/分子运动和物态.md",
-    "物理学基础/物理的语言.md",
+    "有机化学/离去基团.md",
+    "有机化学/空间效应和电子效应.md",
+    "代数学/Basic Algebra.md",
+    "有机化学/Books/clayden-chinese-20221228.pdf",
+    "快速系列/快速系列.md",
+    "快速系列/快速基物3/快速光学.md",
+    "快速系列/快速基物3/快速基物3.md",
+    "快速系列/快速基物3/快速热力学.md",
+    "基础集合相关/Relations.md",
+    "分析学和拓扑/Hilbert Spaces and Dual Mapping.md",
     "分析学和拓扑/Fliter, Net and Convergence.md",
     "分析学和拓扑/Complete metric spaces.md",
-    "分析学和拓扑/Hilbert Spaces and Dual Mapping.md",
-    "分析学和拓扑/Books/Convergence Theorey.pdf",
-    "分析学和拓扑/~syncthing~Fliter, Net and Convergence.md.tmp",
-    "分析学和拓扑/Books/Herbert Amann, Joachim Escher - Analysis II-Birkhäuser Basel (2008).pdf",
-    "分析学和拓扑/Books/Herbert Amann, Joachim Escher - Analysis III-Birkhäuser (2009).pdf",
-    "Untitled",
-    "快速系列/快速基物3/快速热力学.md",
-    "~syncthing~醚类化合物.md.tmp",
-    "~syncthing~酚类化合物.md.tmp",
-    "分析学和拓扑/Bounded Linear Operator of Banach spaces.md",
     "分析学和拓扑/Classical Differential Manifold.md",
-    "快速系列/快速基物3/快速基物3.md",
-    "~syncthing~光分析法导论.md.tmp",
-    "Untitled.md",
-    "有机化学/分子结构.md",
-    "物理化学/热力学.md",
-    "快速系列/快速基物3/快速光学.md",
-    "分析学（Eng）/Hilbert Spaces and Dual Mapping.md"
+    "分析学和拓扑/Bounded Linear Operator of Banach spaces.md",
+    "代数学/Finitely generated free modules.md",
+    "代数学/~syncthing~Basic Module.md.tmp",
+    "代数学/files",
+    "代数学/books/Paolo Aluffi - Algebra_ Chapter 0 (2nd printing)-American Mathematical Society(RI) (2009).pdf",
+    "代数学/books"
   ]
 }

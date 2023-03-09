@@ -8,26 +8,52 @@
         "type": "tabs",
         "children": [
           {
-            "id": "368fdc0712a1a5dd",
+            "id": "3fe6159250815cf5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "分析学和拓扑/Classical Differential Manifold.md",
-                "mode": "preview",
+                "file": "有机化学/酸碱理论和$pK_a$.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           },
           {
-            "id": "3fe6159250815cf5",
+            "id": "a14694e74706e649",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "有机化学/醚类化合物.md",
-                "mode": "preview",
+                "file": "有机化学/离域与共轭.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "afa6fb401438b44e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "物理化学/热力学四大定律.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7ad7562c821cccdb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "环氧化合物.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -46,7 +72,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -112,7 +139,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "分析学和拓扑/Classical Differential Manifold.md",
+            "file": "有机化学/离域与共轭.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -129,7 +156,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "分析学和拓扑/Classical Differential Manifold.md",
+            "file": "有机化学/离域与共轭.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -141,7 +168,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "分析学和拓扑/Classical Differential Manifold.md"
+            "file": "有机化学/离域与共轭.md"
           }
         }
       }
@@ -161,53 +188,53 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "368fdc0712a1a5dd",
+  "active": "a14694e74706e649",
   "lastOpenFiles": [
-    "物理化学/files/Pasted image 20230303220521.png",
-    "物理化学/files/Pasted image 20230303224335.png",
-    "物理化学/files/Pasted image 20230303220341.png",
-    "物理化学/files/Pasted image 20230303224327.png",
-    "物理化学/files/Pasted image 20230303223609.png",
-    "物理化学/files/Pasted image 20230303223647.png",
-    "分析学和拓扑/Fliter, Net and Convergence.md",
-    "分析学和拓扑/Complete metric spaces.md",
-    "现代仪器分析/光分析法导论.md",
     "有机化学/醚类化合物.md",
+    "化学平衡.md",
+    "有机化学/酸碱理论和$pK_a$.md",
+    "分析学和拓扑/Fliter, Net and Convergence.md",
+    "有机化学/Files/Pasted image 20230308211154.png",
+    "有机化学/Files/Pasted image 20230308210817.png",
+    "有机化学/Files/Pasted image 20230308210502.png",
+    "有机化学/Files/Pasted image 20230308205940.png",
+    "有机化学/Files/Pasted image 20230308205841.png",
+    "有机化学/Files/Pasted image 20230308204906.png",
+    "有机化学/Files/Pasted image 20230308204004.png",
+    "有机化学/Files/Pasted image 20230308203719.png",
+    "有机化学/Files/Pasted image 20230308202931.png",
+    "有机化学/Files/Pasted image 20230308201842.png",
+    "代数学/Basic Category.md",
+    "物理学基础/物理的语言.md",
+    "物理化学/热力学四大定律.md",
     "现代仪器分析/原子吸收光谱法.md",
+    "物理化学/化合物的颜色.md",
+    "物理化学/分子运动和物态.md",
+    "现代仪器分析/光分析法导论.md",
+    "代数学/Basic Module.md",
+    "有机化学/离域与共轭.md",
+    "分析学和拓扑/Classical Differential Manifold.md",
+    "代数学/Basic Algebra.md",
+    "马克思主义哲学.md",
+    "环氧化合物.md",
+    "Untitled",
+    "有机化学/对羰基的亲核加成.md",
+    "().md",
+    "代数学/Module.md",
+    "分析学和拓扑/Complete metric spaces.md",
     "现代仪器分析/原子发射光谱法.md",
     "原子吸收光谱法.md",
     "有机化学/基本有机反应机理.md",
-    "Untitled",
     "有机化学/离去基团.md",
-    "物理化学/热力学四大定律.md",
     "物理的语言.md",
-    "热力学四大定律.md",
     "物理学基础",
-    "物理化学/分子运动和物态.md",
-    "快速系列/快速系列.md",
-    "有机化学/对羰基的亲核加成.md",
-    "醚类化合物.md",
-    "有机化学/酚类化合物.md",
-    "光分析法导论.md",
-    "酚类化合物.md",
-    "基础集合相关/Relations.md",
-    "分析学和拓扑/Bounded Linear Operator of Banach spaces.md",
     "现代仪器分析",
-    "分析学和拓扑/Files/Pasted image 20230227204217.png",
-    "基础集合相关/序关系.md",
     "基础集合相关",
     "分析学和拓扑/Books/Convergence Theorey.pdf",
     "物理化学",
-    "分析学和拓扑/Hilbert Spaces and Dual Mapping.md",
-    "分析学（Eng）/Hilbert Spaces and Dual Mapping.md",
-    "Hilbert Spaces and Dual Mapping.md",
-    "有机化学/Files/Pasted image 20230227195412.png",
-    "有机化学/Files/Pasted image 20230227195717.png",
-    "分析学（Eng）/Files/Pasted image 20230227204217.png",
     "分析学（Eng）/Files",
     "分析学（Eng）/Books/Herbert Amann, Joachim Escher - Analysis III-Birkhäuser (2009).pdf",
     "分析学（Eng）/Books/Herbert Amann, Joachim Escher - Analysis II-Birkhäuser Basel (2008).pdf",
-    "分析学（Eng）/Books",
-    "有机化学/Files/Pasted image 20230227173403.png"
+    "分析学（Eng）/Books"
   ]
 }
