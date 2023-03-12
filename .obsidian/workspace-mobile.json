@@ -8,51 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3fe6159250815cf5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "有机化学/酸碱理论和$pK_a$.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a14694e74706e649",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "有机化学/离域与共轭.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "afa6fb401438b44e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "物理化学/热力学四大定律.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7ad7562c821cccdb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "环氧化合物.md",
+                "file": "基础化学/化学平衡.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -72,8 +33,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -139,7 +99,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "有机化学/离域与共轭.md",
+            "file": "基础化学/化学平衡.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -156,7 +116,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "有机化学/离域与共轭.md",
+            "file": "基础化学/化学平衡.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -168,7 +128,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "有机化学/离域与共轭.md"
+            "file": "基础化学/化学平衡.md"
           }
         }
       }
@@ -188,11 +148,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a14694e74706e649",
+  "active": "afa6fb401438b44e",
   "lastOpenFiles": [
+    "分子吸光光谱法.md",
+    "基础化学/化学平衡.md",
+    "基础化学",
+    "物理化学/热力学四大定律.md",
+    "有机化学/酸碱理论和$pK_a$.md",
+    "现代仪器分析/原子吸收光谱法.md",
+    "Untitled",
+    "有机化学/离域与共轭.md",
     "有机化学/醚类化合物.md",
     "化学平衡.md",
-    "有机化学/酸碱理论和$pK_a$.md",
     "分析学和拓扑/Fliter, Net and Convergence.md",
     "有机化学/Files/Pasted image 20230308211154.png",
     "有机化学/Files/Pasted image 20230308210817.png",
@@ -206,18 +173,14 @@
     "有机化学/Files/Pasted image 20230308201842.png",
     "代数学/Basic Category.md",
     "物理学基础/物理的语言.md",
-    "物理化学/热力学四大定律.md",
-    "现代仪器分析/原子吸收光谱法.md",
     "物理化学/化合物的颜色.md",
     "物理化学/分子运动和物态.md",
     "现代仪器分析/光分析法导论.md",
     "代数学/Basic Module.md",
-    "有机化学/离域与共轭.md",
     "分析学和拓扑/Classical Differential Manifold.md",
     "代数学/Basic Algebra.md",
     "马克思主义哲学.md",
     "环氧化合物.md",
-    "Untitled",
     "有机化学/对羰基的亲核加成.md",
     "().md",
     "代数学/Module.md",
@@ -225,8 +188,6 @@
     "现代仪器分析/原子发射光谱法.md",
     "原子吸收光谱法.md",
     "有机化学/基本有机反应机理.md",
-    "有机化学/离去基团.md",
-    "物理的语言.md",
     "物理学基础",
     "现代仪器分析",
     "基础集合相关",
@@ -234,7 +195,6 @@
     "物理化学",
     "分析学（Eng）/Files",
     "分析学（Eng）/Books/Herbert Amann, Joachim Escher - Analysis III-Birkhäuser (2009).pdf",
-    "分析学（Eng）/Books/Herbert Amann, Joachim Escher - Analysis II-Birkhäuser Basel (2008).pdf",
-    "分析学（Eng）/Books"
+    "分析学（Eng）/Books/Herbert Amann, Joachim Escher - Analysis II-Birkhäuser Basel (2008).pdf"
   ]
 }
