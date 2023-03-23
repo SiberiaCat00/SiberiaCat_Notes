@@ -47,6 +47,14 @@
   },
   "showLogAboutPerformanceInConsole": false,
   "selectionHistoryTree": {
+    "233333": {
+      "233333": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1679204659568
+        }
+      }
+    },
     "热力学第零定律——如果两个热力学系统中的每一个都与第三个热力学系统处于热平衡": {
       "热力学第零定律——如果两个热力学系统中的每一个都与第三个热力学系统处于热平衡": {
         "currentFile": {
@@ -154,8 +162,8 @@
     "definition": {
       "definition": {
         "currentFile": {
-          "count": 3,
-          "lastUpdated": 1678007231318
+          "count": 4,
+          "lastUpdated": 1679473418106
         }
       }
     },
@@ -210,8 +218,8 @@
     "\\Leftrightarrow": {
       "\\Leftrightarrow": {
         "currentFile": {
-          "count": 2,
-          "lastUpdated": 1677832531114
+          "count": 5,
+          "lastUpdated": 1679480296103
         }
       }
     },
@@ -274,16 +282,16 @@
     "\\rightarrow": {
       "\\rightarrow": {
         "currentFile": {
-          "count": 10,
-          "lastUpdated": 1678352548818
+          "count": 29,
+          "lastUpdated": 1679559779963
         }
       }
     },
     "\\Rightarrow": {
       "\\Rightarrow": {
         "currentFile": {
-          "count": 1,
-          "lastUpdated": 1677832671768
+          "count": 9,
+          "lastUpdated": 1679214314802
         }
       }
     },
@@ -375,14 +383,6 @@
         }
       }
     },
-    "\\varphi": {
-      "\\varphi": {
-        "currentFile": {
-          "count": 4,
-          "lastUpdated": 1678009284661
-        }
-      }
-    },
     "Homomorphism": {
       "Homomorphism": {
         "currentFile": {
@@ -394,8 +394,8 @@
     "structure": {
       "structure": {
         "currentFile": {
-          "count": 1,
-          "lastUpdated": 1678009666814
+          "count": 2,
+          "lastUpdated": 1679403816693
         }
       }
     },
@@ -446,8 +446,8 @@
           "lastUpdated": 1678026694565
         },
         "currentFile": {
-          "count": 1,
-          "lastUpdated": 1678155488843
+          "count": 6,
+          "lastUpdated": 1679361690265
         }
       }
     },
@@ -470,8 +470,8 @@
     "Functors": {
       "Functors": {
         "currentFile": {
-          "count": 1,
-          "lastUpdated": 1678028973631
+          "count": 2,
+          "lastUpdated": 1679160837495
         }
       }
     },
@@ -486,8 +486,8 @@
     "\\mathscr": {
       "\\mathscr": {
         "currentFile": {
-          "count": 19,
-          "lastUpdated": 1678109293809
+          "count": 46,
+          "lastUpdated": 1679472964148
         }
       }
     },
@@ -510,48 +510,48 @@
     "monomorphisms": {
       "monomorphisms": {
         "currentFile": {
-          "count": 2,
-          "lastUpdated": 1678071425232
+          "count": 3,
+          "lastUpdated": 1679203405059
         }
       }
     },
     "epimorphisms": {
       "epimorphisms": {
         "currentFile": {
-          "count": 2,
-          "lastUpdated": 1678071440210
+          "count": 6,
+          "lastUpdated": 1679205479041
         }
       }
     },
     "functors": {
       "functors": {
         "currentFile": {
-          "count": 1,
-          "lastUpdated": 1678074307473
+          "count": 4,
+          "lastUpdated": 1679162530897
         }
       }
     },
     "categories": {
       "categories": {
         "currentFile": {
-          "count": 2,
-          "lastUpdated": 1678082575228
+          "count": 3,
+          "lastUpdated": 1679163760668
         }
       }
     },
     "Definition": {
       "Definition": {
         "currentFile": {
-          "count": 1,
-          "lastUpdated": 1678086171981
+          "count": 4,
+          "lastUpdated": 1679214729428
         }
       }
     },
     "covariant": {
       "covariant": {
         "currentFile": {
-          "count": 2,
-          "lastUpdated": 1678090039954
+          "count": 3,
+          "lastUpdated": 1679161006125
         }
       }
     },
@@ -590,8 +590,8 @@
     "object": {
       "object": {
         "currentFile": {
-          "count": 1,
-          "lastUpdated": 1678113112881
+          "count": 2,
+          "lastUpdated": 1679161657246
         }
       }
     },
@@ -606,8 +606,8 @@
     "m\\rightarrow": {
       "m\\rightarrow": {
         "currentFile": {
-          "count": 1,
-          "lastUpdated": 1678157540793
+          "count": 2,
+          "lastUpdated": 1679213664188
         }
       }
     },
@@ -672,6 +672,686 @@
         "currentFile": {
           "count": 1,
           "lastUpdated": 1678503935210
+        }
+      }
+    },
+    "。电负性强和阴离子体积大都助于稳定负电荷": {
+      "。电负性强和阴离子体积大都助于稳定负电荷": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1678606921350
+        }
+      }
+    },
+    "例如这四个": {
+      "例如这四个": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1678608502645
+        }
+      }
+    },
+    "embedding": {
+      "embedding": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1678634884884
+        }
+      }
+    },
+    "morphism": {
+      "morphism": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1679474931602
+        }
+      }
+    },
+    "Quotient\\": {
+      "Quotient\\": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1679158701780
+        }
+      }
+    },
+    "Quotient": {
+      "Quotient": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1679158702828
+        }
+      }
+    },
+    "quotient": {
+      "quotient": {
+        "currentFile": {
+          "count": 4,
+          "lastUpdated": 1679338893649
+        }
+      }
+    },
+    "C\\rightarrow": {
+      "C\\rightarrow": {
+        "currentFile": {
+          "count": 3,
+          "lastUpdated": 1679162557468
+        }
+      }
+    },
+    "\\mathrm": {
+      "\\mathrm": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1679160961981
+        }
+      }
+    },
+    "isomorphisms": {
+      "isomorphisms": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1679161107735
+        }
+      }
+    },
+    "left-adjoint": {
+      "left-adjoint": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1679162270384
+        }
+      }
+    },
+    "Left-adjoint": {
+      "Left-adjoint": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1679162049982
+        }
+      }
+    },
+    "limits": {
+      "limits": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1679162073823
+        }
+      }
+    },
+    "D\\rightarrow": {
+      "D\\rightarrow": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1679162189783
+        }
+      }
+    },
+    "I\\rightarrow": {
+      "I\\rightarrow": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1679162305752
+        }
+      }
+    },
+    "\\lim_{\\longleftarrow}": {
+      "\\lim_{\\longleftarrow}": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1679162407113
+        }
+      }
+    },
+    "right-adjoint": {
+      "right-adjoint": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1679162465681
+        }
+      }
+    },
+    "Composition": {
+      "Composition": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1679162524605
+        }
+      }
+    },
+    "natural": {
+      "natural": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1679162611322
+        }
+      }
+    },
+    "Additive categories": {
+      "Additive categories": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1679163728968
+        }
+      }
+    },
+    "\\varphi\\circ": {
+      "\\varphi\\circ": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1679199197575
+        }
+      }
+    },
+    "\\zeta": {
+      "\\zeta": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1679199732007
+        }
+      }
+    },
+    "\\beta": {
+      "\\beta": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1679199792509
+        }
+      }
+    },
+    "\\circ": {
+      "\\circ": {
+        "currentFile": {
+          "count": 3,
+          "lastUpdated": 1679207062168
+        }
+      }
+    },
+    "\\begin{align}": {
+      "\\begin{align}": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1679200700691
+        }
+      }
+    },
+    "\\end{align}": {
+      "\\end{align}": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1679200713312
+        }
+      }
+    },
+    "Kernel": {
+      "Kernel": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1679203394321
+        }
+      }
+    },
+    "satisfy": {
+      "satisfy": {
+        "currentFile": {
+          "count": 5,
+          "lastUpdated": 1679562232687
+        }
+      }
+    },
+    "B\\rightarrow": {
+      "B\\rightarrow": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1679207578889
+        }
+      }
+    },
+    "\\Leftarrow": {
+      "\\Leftarrow": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1679207375883
+        }
+      }
+    },
+    "module": {
+      "module": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1679212317793
+        }
+      }
+    },
+    "Every": {
+      "Every": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1679212448921
+        }
+      }
+    },
+    "quotients": {
+      "quotients": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1679213111137
+        }
+      }
+    },
+    "M\\rightarrow": {
+      "M\\rightarrow": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1679213657127
+        }
+      }
+    },
+    "homomorphism": {
+      "homomorphism": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1679214387845
+        }
+      }
+    },
+    "image": {
+      "image": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1679214051948
+        }
+      }
+    },
+    "Cokernel": {
+      "Cokernel": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1679214750144
+        }
+      }
+    },
+    "cokernel": {
+      "cokernel": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1679304375958
+        }
+      }
+    },
+    "Additive Categories": {
+      "Additive Categories": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1679217826226
+        }
+      }
+    },
+    "\\varphi": {
+      "\\varphi": {
+        "currentFile": {
+          "count": 11,
+          "lastUpdated": 1679475326139
+        }
+      }
+    },
+    "kernel": {
+      "kernel": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1679308570072
+        }
+      }
+    },
+    "kernels": {
+      "kernels": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1679311057117
+        }
+      }
+    },
+    "monomorphism": {
+      "monomorphism": {
+        "currentFile": {
+          "count": 3,
+          "lastUpdated": 1679562363773
+        }
+      }
+    },
+    "epimorphism": {
+      "epimorphism": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1679308604414
+        }
+      }
+    },
+    "isomorphism": {
+      "isomorphism": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1679308624632
+        }
+      }
+    },
+    "coproducts": {
+      "coproducts": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1679309448688
+        }
+      }
+    },
+    "additive": {
+      "additive": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1679309520842
+        }
+      }
+    },
+    "product": {
+      "product": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1679311663226
+        }
+      }
+    },
+    "A\\rightarrow": {
+      "A\\rightarrow": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1679310395508
+        }
+      }
+    },
+    "A\\coprod": {
+      "A\\coprod": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1679310942858
+        }
+      }
+    },
+    "\\alpha": {
+      "\\alpha": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1679310757270
+        }
+      }
+    },
+    "coproduct": {
+      "coproduct": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1679361281131
+        }
+      }
+    },
+    "A\\oplus": {
+      "A\\oplus": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1679311424178
+        }
+      }
+    },
+    "\\usetikzlibrary{cd}": {
+      "\\usetikzlibrary{cd}": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1679312571583
+        }
+      }
+    },
+    "composition": {
+      "composition": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1679337723235
+        }
+      }
+    },
+    "-Module": {
+      "-Module": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1679338001013
+        }
+      }
+    },
+    "endowed": {
+      "endowed": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1679338130829
+        }
+      }
+    },
+    "identity": {
+      "identity": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1679338789782
+        }
+      }
+    },
+    "Free modules and presentations": {
+      "Free modules and presentations": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1679359255852
+        }
+      }
+    },
+    "R\\mathrm{-Mod}": {
+      "R\\mathrm{-Mod}": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1679359978568
+        }
+      }
+    },
+    "x\\rightarrow": {
+      "x\\rightarrow": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1679363374643
+        }
+      }
+    },
+    "f\\rightarrow": {
+      "f\\rightarrow": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1679363432133
+        }
+      }
+    },
+    "requirement": {
+      "requirement": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1679363598687
+        }
+      }
+    },
+    "X\\rightarrow": {
+      "X\\rightarrow": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1679403051260
+        }
+      }
+    },
+    "r_x^{-1}": {
+      "r_x^{-1}": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1679472818581
+        }
+      }
+    },
+    "basis": {
+      "basis": {
+        "currentFile": {
+          "count": 3,
+          "lastUpdated": 1679556000857
+        }
+      }
+    },
+    "\\hom_{R-\\mathrm{mod}}": {
+      "\\hom_{R-\\mathrm{mod}}": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1679475195287
+        }
+      }
+    },
+    "equivalent": {
+      "equivalent": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1679475222128
+        }
+      }
+    },
+    "injection": {
+      "injection": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1679475243264
+        }
+      }
+    },
+    "\\mathrm{Ker}": {
+      "\\mathrm{Ker}": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1679475276519
+        }
+      }
+    },
+    "\\mathcal{F}": {
+      "\\mathcal{F}": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1679477015023
+        }
+      }
+    },
+    "space": {
+      "space": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1679478918728
+        }
+      }
+    },
+    "independent": {
+      "independent": {
+        "currentFile": {
+          "count": 6,
+          "lastUpdated": 1679563622639
+        }
+      }
+    },
+    "minimum": {
+      "minimum": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1679480894517
+        }
+      }
+    },
+    "\\sum\\limits_{i}r_{i}s_{i}": {
+      "\\sum\\limits_{i}r_{i}s_{i}": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1679481182277
+        }
+      }
+    },
+    "maximal": {
+      "maximal": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1679561376544
+        }
+      }
+    },
+    "Proposition": {
+      "Proposition": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1679555992636
+        }
+      }
+    },
+    "theorem": {
+      "theorem": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1679482522048
+        }
+      }
+    },
+    "Dimention": {
+      "Dimention": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1679557165682
+        }
+      }
+    },
+    "\\mathfrak": {
+      "\\mathfrak": {
+        "currentFile": {
+          "count": 19,
+          "lastUpdated": 1679567661149
+        }
+      }
+    },
+    "consequence": {
+      "consequence": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1679558731873
+        }
+      }
+    },
+    "space\\": {
+      "space\\": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1679559436548
+        }
+      }
+    },
+    "surjective": {
+      "surjective": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1679560014842
+        }
+      }
+    },
+    "linear": {
+      "linear": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1679561381262
+        }
+      }
+    },
+    "S\\rightarrow": {
+      "S\\rightarrow": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1679562376838
         }
       }
     }

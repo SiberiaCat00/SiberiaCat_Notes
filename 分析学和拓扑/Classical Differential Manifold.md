@@ -40,7 +40,7 @@ Suppose $X$ is open in $R^m$ and $f \in C^q(X, R^n)$ is an embedding. Then $f(X)
 ## Cylindrical coordinates
 
 # Local charts and parametrizations
-## definition of local charts 
+## Definition of local charts 
 	Local charts:局部图
 	chart:图
 	charted territory: 图作用域
@@ -52,9 +52,9 @@ Suppose $X$ is open in $R^m$ and $f \in C^q(X, R^n)$ is an embedding. Then $f(X)
 Suppose $M$ is a subset of $R^n$ and $p \in M$，$i_M$ is the canonical injection:$$i_M:M\rightarrow R^n,x\rightarrow x$$
 Let $U\subseteq M, V\subseteq R^m$. The map $\varphi: U\rightarrow V$ is called an **m-dimensional(local) $C^q$ chart of $M$ around $p$ if:**
 
-* is an open neighborhood of p in $M$
+* $U$ is an open neighborhood of p in $M$
 * $\varphi$ is a homeomorphism of $U$ onto the open set $V := \varphi(U)$ of $R^m$
-* $R^m\rightarrow R^n$ , $g := i_M ◦ {\varphi}^{−1}$   is a $C^q$ immersion
+* $R^m\rightarrow R^n$ , $g := i_M ◦ {\varphi}^{−1}$   is a $C^q$ immersion(hence embedding)
 
 
 Some names:
@@ -63,4 +63,17 @@ Some names:
 * $g$ is the **parametrization** of $U$ in $\varphi$
 * An $m$-dimensional $C^q$ **atlas** for $M$ is a family $\{ \varphi_\alpha ; \alpha ∈ A \}$ of $m$-dimensional $C^q$ charts of $M$ whose charted territories $U_\alpha := dom(\varphi_\alpha)$ cover the set $M$
 * Finally, the $(x_1, . . . , x_m) := \varphi(p)$ are the **local coordinates** of $p \in U$ in the chart $\varphi$.
-## Describe manifold through charts
+## Theorem: Every submanifold have atlas representation
+
+
+
+
+
+
+
+
+
+
+
+
+

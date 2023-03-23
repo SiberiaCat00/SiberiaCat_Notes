@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "现代仪器分析/光分析法导论.md",
+                "file": "代数学/Abelian Categories.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -150,8 +150,12 @@
   },
   "active": "afa6fb401438b44e",
   "lastOpenFiles": [
-    "分子吸光光谱法.md",
+    "代数学/Basic Module.md",
+    "代数学/Additive Categories.md",
+    "代数学/Abelian Categories.md",
+    "现代仪器分析/光分析法导论.md",
     "基础化学/化学平衡.md",
+    "分子吸光光谱法.md",
     "基础化学",
     "物理化学/热力学四大定律.md",
     "有机化学/酸碱理论和$pK_a$.md",
@@ -175,8 +179,6 @@
     "物理学基础/物理的语言.md",
     "物理化学/化合物的颜色.md",
     "物理化学/分子运动和物态.md",
-    "现代仪器分析/光分析法导论.md",
-    "代数学/Basic Module.md",
     "分析学和拓扑/Classical Differential Manifold.md",
     "代数学/Basic Algebra.md",
     "马克思主义哲学.md",
@@ -186,8 +188,6 @@
     "代数学/Module.md",
     "分析学和拓扑/Complete metric spaces.md",
     "现代仪器分析/原子发射光谱法.md",
-    "原子吸收光谱法.md",
-    "有机化学/基本有机反应机理.md",
     "物理学基础",
     "现代仪器分析",
     "基础集合相关",
