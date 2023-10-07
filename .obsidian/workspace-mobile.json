@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c37b15c3d411aea5",
+        "id": "c0175a68b1cad22a",
         "type": "tabs",
         "children": [
           {
-            "id": "afa6fb401438b44e",
+            "id": "438f68f4f1df49d6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "基础化学/化学平衡.md",
+                "file": "实验.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,12 +21,12 @@
             }
           },
           {
-            "id": "d486e06eacff8516",
+            "id": "ff2e5df25ba13a2f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "代数学/Abelian Categories.md",
+                "file": "实验.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -85,9 +85,25 @@
           "type": "starred",
           "state": {}
         }
+      },
+      {
+        "id": "6b0e36f66a4bf35e",
+        "type": "leaf",
+        "state": {
+          "type": "recent-files",
+          "state": {}
+        }
+      },
+      {
+        "id": "da3f1fbd75670f93",
+        "type": "leaf",
+        "state": {
+          "type": "file-tree-view",
+          "state": {}
+        }
       }
     ],
-    "currentTab": 0
+    "currentTab": 5
   },
   "right": {
     "id": "cc1e2d6f98c5e684",
@@ -99,7 +115,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "基础化学/化学平衡.md",
+            "file": "实验.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -116,7 +132,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "基础化学/化学平衡.md",
+            "file": "实验.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -128,16 +144,23 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "基础化学/化学平衡.md"
+            "file": "实验.md"
           }
+        }
+      },
+      {
+        "id": "a21f8c80cd34d30b",
+        "type": "leaf",
+        "state": {
+          "type": "advanced-tables-toolbar",
+          "state": {}
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 3
   },
   "left-ribbon": {
     "hiddenItems": {
-      "markdown-table-editor:Open Markdown Table Editor": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -145,56 +168,58 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "workspaces:Manage workspace layouts": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "markdown-table-editor:Open Markdown Table Editor": false,
+      "file-tree-alternative:File Tree Alternative Plugin": false
     }
   },
-  "active": "afa6fb401438b44e",
+  "active": "438f68f4f1df49d6",
   "lastOpenFiles": [
-    "代数学/Basic Module.md",
-    "代数学/Additive Categories.md",
-    "代数学/Abelian Categories.md",
-    "现代仪器分析/光分析法导论.md",
-    "基础化学/化学平衡.md",
-    "分子吸光光谱法.md",
-    "基础化学",
-    "物理化学/热力学四大定律.md",
-    "有机化学/酸碱理论和$pK_a$.md",
-    "现代仪器分析/原子吸收光谱法.md",
-    "Untitled",
-    "有机化学/离域与共轭.md",
-    "有机化学/醚类化合物.md",
-    "化学平衡.md",
-    "分析学和拓扑/Fliter, Net and Convergence.md",
-    "有机化学/Files/Pasted image 20230308211154.png",
-    "有机化学/Files/Pasted image 20230308210817.png",
-    "有机化学/Files/Pasted image 20230308210502.png",
-    "有机化学/Files/Pasted image 20230308205940.png",
-    "有机化学/Files/Pasted image 20230308205841.png",
-    "有机化学/Files/Pasted image 20230308204906.png",
-    "有机化学/Files/Pasted image 20230308204004.png",
-    "有机化学/Files/Pasted image 20230308203719.png",
-    "有机化学/Files/Pasted image 20230308202931.png",
-    "有机化学/Files/Pasted image 20230308201842.png",
-    "代数学/Basic Category.md",
-    "物理学基础/物理的语言.md",
-    "物理化学/化合物的颜色.md",
-    "物理化学/分子运动和物态.md",
-    "分析学和拓扑/Classical Differential Manifold.md",
-    "代数学/Basic Algebra.md",
-    "马克思主义哲学.md",
-    "环氧化合物.md",
-    "有机化学/对羰基的亲核加成.md",
-    "().md",
-    "代数学/Module.md",
-    "分析学和拓扑/Complete metric spaces.md",
-    "现代仪器分析/原子发射光谱法.md",
-    "物理学基础",
-    "现代仪器分析",
-    "基础集合相关",
-    "分析学和拓扑/Books/Convergence Theorey.pdf",
-    "物理化学",
-    "分析学（Eng）/Files",
-    "分析学（Eng）/Books/Herbert Amann, Joachim Escher - Analysis III-Birkhäuser (2009).pdf",
-    "分析学（Eng）/Books/Herbert Amann, Joachim Escher - Analysis II-Birkhäuser Basel (2008).pdf"
+    "数学/代数学/线性代数/LA06 有限维自由模态射分类.md",
+    "数学/代数学/线性代数/LA06 PID有限生成模结构定理.md",
+    "实验.md",
+    "数学/代数学/线性代数/LA04 自由模态射的矩阵表示.md",
+    "数学/代数学/线性代数/LA05 线性变换与行列式.md",
+    "数学/代数学/线性代数/LA05 可逆矩阵，基变换矩阵与有限维空间的线性自同构.md",
+    "数学/代数学/线性代数/LA03 自由模的直和与内直和.md",
+    "数学/代数学/复杂线性代数/FMOD00 Free modules and basis.md",
+    "数学/代数学/模论/MOD02 内直和分解.md",
+    "Temp/EXPE.md",
+    "数学/代数学/复杂线性代数/Representatin of homomorphism of free modules.md",
+    "教材选购.md",
+    "代数学/Free modules and basis.md",
+    "数学/分析学和拓扑/测度理论，积分理论，实分析/RA01 各种实可测函数.md",
+    "数学/分析学和拓扑/测度理论，积分理论，实分析/RA00 向量可测函数.md",
+    "数学/分析学和拓扑/测度理论，积分理论，实分析/RA04 实函数积分和扩展实函数积分.md",
+    "数学/分析学和拓扑/测度理论，积分理论，实分析/RA03 向量可积函数的积分.md",
+    "数学/分析学和拓扑/测度理论，积分理论，实分析/RA02 非负扩展可测函数的积分.md",
+    "数学/分析学和拓扑/测度理论，积分理论，实分析/RA06 测度的导数和正交分解.md",
+    "数学/分析学和拓扑/测度理论，积分理论，实分析/RA05 符号测度和符号测度上积分.md",
+    "数学/分析学和拓扑/Files/Pasted image 20230227204217.png",
+    "数学/分析学和拓扑/Books/02Herbert Amann, Joachim Escher - Analysis III-Birkhäuser (2009).pdf",
+    "数学/分析学和拓扑/Books/Convergence Theorey.pdf",
+    "数学/分析学和拓扑/Books/(Undergraduate_texts_in_mathematics)_Sheldon_Axler_-_Linear_Algebra_Done_Right-Springer_(1997).pdf",
+    "数学/分析学和拓扑/Books/00Herbert_Amann,_Joachim_Escher,_Gary_Brookfield_-_Analysis_I-Birkhäuser_Basel_(2005).pdf",
+    "数学/分析学和拓扑/Books/01Herbert Amann, Joachim Escher - Analysis II-Birkhäuser Basel (2008).pdf",
+    "数学/代数学/模论/MOD00 Definition, Homomorphism, Product and Coproduct.md",
+    "数学/代数学/模论/MOD01 Categroy.md",
+    "数学/代数学/基础线性代数/LA00 从别处窃取的命题.md",
+    "数学/代数学/files/Pasted image 20230319021552.png",
+    "数学/代数学/files/Pasted image 20230320201548.png",
+    "数学/代数学/files/Pasted image 20230320191514.png",
+    "数学/代数学/files/Pasted image 20230320183402.png",
+    "数学/代数学/files/Pasted image 20230319121211.png",
+    "数学/代数学/files/Pasted image 20230319121203.png",
+    "数学/代数学/files/Pasted image 20230319120425.png",
+    "数学/代数学/files/Pasted image 20230320183405.png",
+    "数学/代数学/files/Pasted image 20230320192354.png",
+    "数学/代数学/books/Paolo Aluffi - Algebra_ Chapter 0 (2nd printing)-American Mathematical Society(RI) (2009).pdf",
+    "数学/代数学/books/(Undergraduate_texts_in_mathematics)_Sheldon_Axler_-_Linear_Algebra_Done_Right-Springer_(1997).pdf",
+    "数学/集合/Relations.md",
+    "数学/集合/Basic Structure.md",
+    "数学/分析学和拓扑/Series in Banach Spaces.md",
+    "数学/分析学和拓扑/测度理论，积分理论，实分析",
+    "数学/分析学和拓扑/Files",
+    "数学/分析学和拓扑/Books"
   ]
 }

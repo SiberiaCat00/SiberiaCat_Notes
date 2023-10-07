@@ -47,591 +47,235 @@
   },
   "showLogAboutPerformanceInConsole": false,
   "selectionHistoryTree": {
-    "233333": {
-      "233333": {
+    "\\int_{X}": {
+      "\\int_{X}": {
+        "currentFile": {
+          "count": 43,
+          "lastUpdated": 1694536802056
+        }
+      }
+    },
+    "\\lim_{i}": {
+      "\\lim_{i}": {
+        "currentFile": {
+          "count": 5,
+          "lastUpdated": 1693589092499
+        }
+      }
+    },
+    "\\varphi": {
+      "\\varphi": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1693588605775
+        }
+      }
+    },
+    "\\chi_{A_{i}}\\varphi": {
+      "\\chi_{A_{i}}\\varphi": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1693588701464
+        }
+      }
+    },
+    "\\lambda": {
+      "\\lambda": {
+        "currentFile": {
+          "count": 5,
+          "lastUpdated": 1695112197655
+        }
+      }
+    },
+    "\\lim_{i}f_{i}\\": {
+      "\\lim_{i}f_{i}\\": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1693588950959
+        }
+      }
+    },
+    "\\varliminf_{i}": {
+      "\\varliminf_{i}": {
+        "currentFile": {
+          "count": 5,
+          "lastUpdated": 1693625870399
+        }
+      }
+    },
+    "\\varlimsup_{i}": {
+      "\\varlimsup_{i}": {
         "currentFile": {
           "count": 2,
-          "lastUpdated": 1679204659568
-        }
-      }
-    },
-    "热力学第零定律——如果两个热力学系统中的每一个都与第三个热力学系统处于热平衡": {
-      "热力学第零定律——如果两个热力学系统中的每一个都与第三个热力学系统处于热平衡": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1677306870624
-        }
-      }
-    },
-    "热力学第一定律——能量守恒定律在热学形式的表现。它指出热是物质运动的一种形式，并表明，一个体系内能增加的量值△E（": {
-      "热力学第一定律——能量守恒定律在热学形式的表现。它指出热是物质运动的一种形式，并表明，一个体系内能增加的量值△E（": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1677307020514
-        }
-      }
-    },
-    "方均根遮事：大量分子的速率平方平均值的平方根、": {
-      "方均根遮事：大量分子的速率平方平均值的平方根、": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1677308500997
-        }
-      }
-    },
-    "asdasdas": {
-      "asdasdas": {
-        "currentFile": {
-          "count": 2,
-          "lastUpdated": 1677309902717
-        }
-      }
-    },
-    "分振幅干涉": {
-      "分振幅干涉": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1677312000331
-        }
-      }
-    },
-    "\\varDelta": {
-      "\\varDelta": {
-        "currentFile": {
-          "count": 8,
-          "lastUpdated": 1677320749314
-        }
-      }
-    },
-    "下文：n为折射率，r_i为在第i段介质中传播的几何路程": {
-      "下文：n为折射率，r_i为在第i段介质中传播的几何路程": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1677314304811
-        }
-      }
-    },
-    "注意使用透镜不会带来光程差（证明复杂）。下面还有一些其他的事件对光程差的影响：": {
-      "注意使用透镜不会带来光程差（证明复杂）。下面还有一些其他的事件对光程差的影响：": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1677314408015
-        }
-      }
-    },
-    "一些现象：": {
-      "一些现象：": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1677320228070
-        }
-      }
-    },
-    "中间光路巨复杂，建议直接不分析，知道下列这个公式就行了：": {
-      "中间光路巨复杂，建议直接不分析，知道下列这个公式就行了：": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1677320606248
-        }
-      }
-    },
-    "\\varDelta_1": {
-      "\\varDelta_1": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1677320654964
-        }
-      }
-    },
-    "同一厚度对应同一级条纹，也就是等厚条纹": {
-      "同一厚度对应同一级条纹，也就是等厚条纹": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1677389550276
-        }
-      }
-    },
-    "注意以下代换：": {
-      "注意以下代换：": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1677390086556
-        }
-      }
-    },
-    "definition": {
-      "definition": {
-        "currentFile": {
-          "count": 4,
-          "lastUpdated": 1679473418106
-        }
-      }
-    },
-    "热力学研究的事静态系统（系统统计量不随时间变化），": {
-      "热力学研究的事静态系统（系统统计量不随时间变化），": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1677814696641
-        }
-      }
-    },
-    "Convergence": {
-      "Convergence": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1677816655393
-        }
-      }
-    },
-    "filter": {
-      "filter": {
-        "currentFile": {
-          "count": 4,
-          "lastUpdated": 1677833439241
+          "lastUpdated": 1694536761449
         }
       }
     },
     "\\mathcal": {
       "\\mathcal": {
         "currentFile": {
-          "count": 13,
-          "lastUpdated": 1677832954394
+          "count": 15,
+          "lastUpdated": 1694617420596
         }
       }
     },
-    "analysis": {
-      "analysis": {
+    "\\varphi_i": {
+      "\\varphi_i": {
+        "currentFile": {
+          "count": 20,
+          "lastUpdated": 1694439874160
+        }
+      }
+    },
+    "\\overline{O_{i}}\\in": {
+      "\\overline{O_{i}}\\in": {
         "currentFile": {
           "count": 1,
-          "lastUpdated": 1677816961850
+          "lastUpdated": 1693714309373
         }
       }
     },
-    "converges": {
-      "converges": {
+    "_{N^{c}}^{-1}": {
+      "_{N^{c}}^{-1}": {
         "currentFile": {
           "count": 2,
-          "lastUpdated": 1677832514454
+          "lastUpdated": 1693721495314
         }
       }
     },
-    "\\Leftrightarrow": {
-      "\\Leftrightarrow": {
-        "currentFile": {
-          "count": 5,
-          "lastUpdated": 1679480296103
-        }
-      }
-    },
-    "\\forall": {
-      "\\forall": {
-        "currentFile": {
-          "count": 5,
-          "lastUpdated": 1678022167575
-        }
-      }
-    },
-    "\\exists": {
-      "\\exists": {
-        "currentFile": {
-          "count": 2,
-          "lastUpdated": 1677832602183
-        }
-      }
-    },
-    "subfilter": {
-      "subfilter": {
-        "currentFile": {
-          "count": 3,
-          "lastUpdated": 1677835428761
-        }
-      }
-    },
-    "特诊光谱识别元素": {
-      "特诊光谱识别元素": {
+    "\\bigcup_{j": {
+      "\\bigcup_{j": {
         "currentFile": {
           "count": 1,
-          "lastUpdated": 1677824494993
+          "lastUpdated": 1693723129585
         }
       }
     },
-    "已经准确测量": {
-      "已经准确测量": {
+    "向量值可测函数": {
+      "向量值可测函数": {
         "currentFile": {
           "count": 1,
-          "lastUpdated": 1677825303229
+          "lastUpdated": 1693725082455
         }
       }
     },
-    "定量分析基础": {
-      "定量分析基础": {
+    "向量值可测等价于": {
+      "向量值可测等价于": {
         "currentFile": {
           "count": 2,
-          "lastUpdated": 1677825318229
+          "lastUpdated": 1693725092401
         }
       }
     },
-    "div": {
-      "div": {
+    "定义域排除一个零测集后的像可分": {
+      "定义域排除一个零测集后的像可分": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1693731254014
+        }
+      }
+    },
+    "Appendix": {
+      "Appendix": {
         "customDictionary": {
           "count": 1,
-          "lastUpdated": 1677829755111
+          "lastUpdated": 1693732041360
         }
       }
     },
-    "\\rightarrow": {
-      "\\rightarrow": {
-        "currentFile": {
-          "count": 29,
-          "lastUpdated": 1679559779963
-        }
-      }
-    },
-    "\\Rightarrow": {
-      "\\Rightarrow": {
-        "currentFile": {
-          "count": 9,
-          "lastUpdated": 1679214314802
-        }
-      }
-    },
-    "equal": {
-      "equal": {
+    "是向量值可测函数，": {
+      "是向量值可测函数，": {
         "currentFile": {
           "count": 1,
-          "lastUpdated": 1677832827342
+          "lastUpdated": 1693732943333
+        }
+      }
+    },
+    "极限函数是向量值可测的。": {
+      "极限函数是向量值可测的。": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1693734379576
+        }
+      }
+    },
+    "\\subseteq": {
+      "\\subseteq": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1694013143353
+        }
+      }
+    },
+    "\\bigcup_{i}f": {
+      "\\bigcup_{i}f": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1694002117593
+        }
+      }
+    },
+    "实可测函数": {
+      "实可测函数": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1693838198080
+        }
+      }
+    },
+    "\\overline": {
+      "\\overline": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1693839948683
         }
       }
     },
     "\\mathbb": {
       "\\mathbb": {
         "currentFile": {
-          "count": 5,
-          "lastUpdated": 1678353103108
-        }
-      }
-    },
-    "Subfilter": {
-      "Subfilter": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1677833427460
-        }
-      }
-    },
-    "convergence": {
-      "convergence": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1677833750328
-        }
-      }
-    },
-    "Filter": {
-      "Filter": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1677835410232
-        }
-      }
-    },
-    "purple": {
-      "purple": {
-        "customDictionary": {
-          "count": 1,
-          "lastUpdated": 1677895326793
-        }
-      }
-    },
-    "\\ce{Fe^3+}": {
-      "\\ce{Fe^3+}": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1677895689403
-        }
-      }
-    },
-    "\\ce{K": {
-      "\\ce{K": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1677895730447
-        }
-      }
-    },
-    "\\ce{C}": {
-      "\\ce{C}": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1677983296878
-        }
-      }
-    },
-    "commutative": {
-      "commutative": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1678006251554
-        }
-      }
-    },
-    "Module": {
-      "Module": {
-        "internalLink": {
-          "count": 6,
-          "lastUpdated": 1678009012723
-        }
-      }
-    },
-    "Homomorphism": {
-      "Homomorphism": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1678009468286
-        }
-      }
-    },
-    "structure": {
-      "structure": {
-        "currentFile": {
           "count": 2,
-          "lastUpdated": 1679403816693
+          "lastUpdated": 1694587828122
         }
       }
     },
-    "Trivial": {
-      "Trivial": {
+    "\\varphi_{i}": {
+      "\\varphi_{i}": {
         "currentFile": {
           "count": 1,
-          "lastUpdated": 1678012362018
+          "lastUpdated": 1693912132049
         }
       }
     },
-    "Remark": {
-      "Remark": {
-        "customDictionary": {
-          "count": 1,
-          "lastUpdated": 1678021108376
-        }
-      }
-    },
-    "Algebra": {
-      "Algebra": {
-        "customDictionary": {
-          "count": 1,
-          "lastUpdated": 1678021833728
-        }
-      }
-    },
-    "Submodules": {
-      "Submodules": {
+    "sigma有限空间下向量值可测函数的": {
+      "sigma有限空间下向量值可测函数的": {
         "currentFile": {
           "count": 1,
-          "lastUpdated": 1678023411654
+          "lastUpdated": 1693914398807
         }
       }
     },
-    "Category": {
-      "Category": {
-        "customDictionary": {
-          "count": 2,
-          "lastUpdated": 1678024770844
-        }
-      }
-    },
-    "category": {
-      "category": {
-        "customDictionary": {
-          "count": 3,
-          "lastUpdated": 1678026694565
-        },
-        "currentFile": {
-          "count": 6,
-          "lastUpdated": 1679361690265
-        }
-      }
-    },
-    "\\hom_\\mathrm": {
-      "\\hom_\\mathrm": {
-        "currentFile": {
-          "count": 11,
-          "lastUpdated": 1678086066764
-        }
-      }
-    },
-    "diagram": {
-      "diagram": {
-        "customDictionary": {
-          "count": 1,
-          "lastUpdated": 1678028238913
-        }
-      }
-    },
-    "Functors": {
-      "Functors": {
-        "currentFile": {
-          "count": 2,
-          "lastUpdated": 1679160837495
-        }
-      }
-    },
-    "\\mathsf": {
-      "\\mathsf": {
-        "currentFile": {
-          "count": 20,
-          "lastUpdated": 1678154739866
-        }
-      }
-    },
-    "\\mathscr": {
-      "\\mathscr": {
-        "currentFile": {
-          "count": 46,
-          "lastUpdated": 1679472964148
-        }
-      }
-    },
-    "Morphisms": {
-      "Morphisms": {
+    "由完全测度的性质补充一个零测集后即可证明": {
+      "由完全测度的性质补充一个零测集后即可证明": {
         "currentFile": {
           "count": 1,
-          "lastUpdated": 1678069845767
+          "lastUpdated": 1693916468753
         }
       }
     },
-    "Endomorphisms": {
-      "Endomorphisms": {
-        "currentFile": {
-          "count": 2,
-          "lastUpdated": 1678070746262
-        }
-      }
-    },
-    "monomorphisms": {
-      "monomorphisms": {
-        "currentFile": {
-          "count": 3,
-          "lastUpdated": 1679203405059
-        }
-      }
-    },
-    "epimorphisms": {
-      "epimorphisms": {
-        "currentFile": {
-          "count": 6,
-          "lastUpdated": 1679205479041
-        }
-      }
-    },
-    "functors": {
-      "functors": {
-        "currentFile": {
-          "count": 4,
-          "lastUpdated": 1679162530897
-        }
-      }
-    },
-    "categories": {
-      "categories": {
-        "currentFile": {
-          "count": 3,
-          "lastUpdated": 1679163760668
-        }
-      }
-    },
-    "Definition": {
-      "Definition": {
-        "currentFile": {
-          "count": 4,
-          "lastUpdated": 1679214729428
-        }
-      }
-    },
-    "covariant": {
-      "covariant": {
-        "currentFile": {
-          "count": 3,
-          "lastUpdated": 1679161006125
-        }
-      }
-    },
-    "Limits": {
-      "Limits": {
+    "的sigma紧性质和测度的上极限性质得到": {
+      "的sigma紧性质和测度的上极限性质得到": {
         "currentFile": {
           "count": 1,
-          "lastUpdated": 1678089910989
+          "lastUpdated": 1693998828868
         }
       }
     },
-    "\\limits_{\\leftarrow}": {
-      "\\limits_{\\leftarrow}": {
+    "因为其局部有限，可以证明每一个紧集测度有限，则整个空间是sigma有限的": {
+      "因为其局部有限，可以证明每一个紧集测度有限，则整个空间是sigma有限的": {
         "currentFile": {
           "count": 1,
-          "lastUpdated": 1678109068619
-        }
-      }
-    },
-    "Universal": {
-      "Universal": {
-        "currentFile": {
-          "count": 2,
-          "lastUpdated": 1678116531250
-        }
-      }
-    },
-    "property": {
-      "property": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1678109445390
-        }
-      }
-    },
-    "object": {
-      "object": {
-        "currentFile": {
-          "count": 2,
-          "lastUpdated": 1679161657246
-        }
-      }
-    },
-    "Examples": {
-      "Examples": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1678156198109
-        }
-      }
-    },
-    "m\\rightarrow": {
-      "m\\rightarrow": {
-        "currentFile": {
-          "count": 2,
-          "lastUpdated": 1679213664188
-        }
-      }
-    },
-    "原子化系统：火焰原子化": {
-      "原子化系统：火焰原子化": {
-        "currentFile": {
-          "count": 3,
-          "lastUpdated": 1678235565311
-        }
-      }
-    },
-    "化学方程式与平衡常数": {
-      "化学方程式与平衡常数": {
-        "currentFile": {
-          "count": 2,
-          "lastUpdated": 1678349930979
-        }
-      }
-    },
-    "吸光的量子态：": {
-      "吸光的量子态：": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1678428814191
+          "lastUpdated": 1693999518464
         }
       }
     },
@@ -639,607 +283,239 @@
       "\\varepsilon": {
         "currentFile": {
           "count": 5,
-          "lastUpdated": 1678430920373
+          "lastUpdated": 1694228818257
         }
       }
     },
-    "\\lambda": {
-      "\\lambda": {
+    "确实是一个范数": {
+      "确实是一个范数": {
         "currentFile": {
           "count": 1,
-          "lastUpdated": 1678429632048
+          "lastUpdated": 1694087872870
         }
       }
     },
-    "\\pi\\rightarrow": {
-      "\\pi\\rightarrow": {
+    "g_{i}-g_{j}": {
+      "g_{i}-g_{j}": {
         "currentFile": {
           "count": 1,
-          "lastUpdated": 1678431659285
+          "lastUpdated": 1694228247837
         }
       }
     },
-    "n\\rightarrow": {
-      "n\\rightarrow": {
+    "\\varliminf_{j}": {
+      "\\varliminf_{j}": {
         "currentFile": {
           "count": 1,
-          "lastUpdated": 1678432085091
+          "lastUpdated": 1694228748439
         }
       }
     },
-    "\\ce{H3O+}": {
-      "\\ce{H3O+}": {
+    "的子向量空间密": {
+      "的子向量空间密": {
         "currentFile": {
           "count": 1,
-          "lastUpdated": 1678503935210
+          "lastUpdated": 1694232228642
         }
       }
     },
-    "。电负性强和阴离子体积大都助于稳定负电荷": {
-      "。电负性强和阴离子体积大都助于稳定负电荷": {
+    "f\\in\\mathcal": {
+      "f\\in\\mathcal": {
         "currentFile": {
           "count": 1,
-          "lastUpdated": 1678606921350
+          "lastUpdated": 1694241335753
         }
       }
     },
-    "例如这四个": {
-      "例如这四个": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1678608502645
-        }
-      }
-    },
-    "embedding": {
-      "embedding": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1678634884884
-        }
-      }
-    },
-    "morphism": {
-      "morphism": {
+    "\\psi_{i}": {
+      "\\psi_{i}": {
         "currentFile": {
           "count": 2,
-          "lastUpdated": 1679474931602
+          "lastUpdated": 1694244626499
         }
       }
     },
-    "Quotient\\": {
-      "Quotient\\": {
+    "_{\\mathcal": {
+      "_{\\mathcal": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1694275419126
+        }
+      }
+    },
+    "\\rightarrow": {
+      "\\rightarrow": {
+        "currentFile": {
+          "count": 6,
+          "lastUpdated": 1695661630453
+        }
+      }
+    },
+    "上的积分定义为：": {
+      "上的积分定义为：": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1694441682226
+        }
+      }
+    },
+    "\\sup_{i": {
+      "\\sup_{i": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1694536510295
+        }
+      }
+    },
+    "\\subsetneq": {
+      "\\subsetneq": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1694587873559
+        }
+      }
+    },
+    "是一个广义可积的函数": {
+      "是一个广义可积的函数": {
         "currentFile": {
           "count": 2,
-          "lastUpdated": 1679158701780
+          "lastUpdated": 1694612559407
         }
       }
     },
-    "Quotient": {
-      "Quotient": {
+    "\\infty": {
+      "\\infty": {
         "currentFile": {
           "count": 1,
-          "lastUpdated": 1679158702828
+          "lastUpdated": 1694614851627
         }
       }
     },
-    "quotient": {
-      "quotient": {
-        "currentFile": {
-          "count": 4,
-          "lastUpdated": 1679338893649
-        }
-      }
-    },
-    "C\\rightarrow": {
-      "C\\rightarrow": {
-        "currentFile": {
-          "count": 3,
-          "lastUpdated": 1679162557468
-        }
-      }
-    },
-    "\\mathrm": {
-      "\\mathrm": {
+    "\\int_{A}": {
+      "\\int_{A}": {
         "currentFile": {
           "count": 1,
-          "lastUpdated": 1679160961981
+          "lastUpdated": 1694616302675
         }
       }
     },
-    "isomorphisms": {
-      "isomorphisms": {
+    "\\varnothing": {
+      "\\varnothing": {
         "currentFile": {
           "count": 1,
-          "lastUpdated": 1679161107735
+          "lastUpdated": 1694617468455
         }
       }
     },
-    "left-adjoint": {
-      "left-adjoint": {
+    "所有符号测度下测度求和有限的不交集合列必定绝对收敛】": {
+      "所有符号测度下测度求和有限的不交集合列必定绝对收敛】": {
         "currentFile": {
           "count": 2,
-          "lastUpdated": 1679162270384
+          "lastUpdated": 1695112737622
         }
       }
     },
-    "Left-adjoint": {
-      "Left-adjoint": {
+    "\\bigcup_{i}": {
+      "\\bigcup_{i}": {
         "currentFile": {
           "count": 1,
-          "lastUpdated": 1679162049982
+          "lastUpdated": 1695113822420
         }
       }
     },
-    "limits": {
-      "limits": {
+    "的无交并。极大正（负）集是指：所有正（负）集减去这个集合得到的都是零集。": {
+      "的无交并。极大正（负）集是指：所有正（负）集减去这个集合得到的都是零集。": {
         "currentFile": {
           "count": 1,
-          "lastUpdated": 1679162073823
+          "lastUpdated": 1695137612001
         }
       }
     },
-    "D\\rightarrow": {
-      "D\\rightarrow": {
+    "Hahn分解定理证明": {
+      "Hahn分解定理证明": {
         "currentFile": {
           "count": 1,
-          "lastUpdated": 1679162189783
+          "lastUpdated": 1695138106333
         }
       }
     },
-    "I\\rightarrow": {
-      "I\\rightarrow": {
+    "-\\varepsilon": {
+      "-\\varepsilon": {
         "currentFile": {
           "count": 1,
-          "lastUpdated": 1679162305752
+          "lastUpdated": 1695139169675
         }
       }
     },
-    "\\lim_{\\longleftarrow}": {
-      "\\lim_{\\longleftarrow}": {
-        "currentFile": {
-          "count": 2,
-          "lastUpdated": 1679162407113
-        }
-      }
-    },
-    "right-adjoint": {
-      "right-adjoint": {
+    "一列递增正集列，": {
+      "一列递增正集列，": {
         "currentFile": {
           "count": 1,
-          "lastUpdated": 1679162465681
+          "lastUpdated": 1695142618677
         }
       }
     },
-    "Composition": {
-      "Composition": {
+    "一定是一个正集。接下来我们说明": {
+      "一定是一个正集。接下来我们说明": {
         "currentFile": {
           "count": 1,
-          "lastUpdated": 1679162524605
+          "lastUpdated": 1695142843837
         }
       }
     },
-    "natural": {
-      "natural": {
+    "中找到一个": {
+      "中找到一个": {
         "currentFile": {
           "count": 1,
-          "lastUpdated": 1679162611322
+          "lastUpdated": 1695143222488
         }
       }
     },
-    "Additive categories": {
-      "Additive categories": {
+    "Free modules and basis": {
+      "Free modules and basis": {
         "internalLink": {
           "count": 1,
-          "lastUpdated": 1679163728968
+          "lastUpdated": 1695173614789
         }
       }
     },
-    "\\varphi\\circ": {
-      "\\varphi\\circ": {
-        "currentFile": {
-          "count": 2,
-          "lastUpdated": 1679199197575
-        }
-      }
-    },
-    "\\zeta": {
-      "\\zeta": {
+    "construct": {
+      "construct": {
         "currentFile": {
           "count": 1,
-          "lastUpdated": 1679199732007
+          "lastUpdated": 1695207652206
         }
       }
     },
-    "\\beta": {
-      "\\beta": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1679199792509
-        }
-      }
-    },
-    "\\circ": {
-      "\\circ": {
+    "\\sum\\limits_i": {
+      "\\sum\\limits_i": {
         "currentFile": {
           "count": 3,
-          "lastUpdated": 1679207062168
+          "lastUpdated": 1695210352177
         }
       }
     },
-    "\\begin{align}": {
-      "\\begin{align}": {
+    "independet": {
+      "independet": {
         "currentFile": {
           "count": 1,
-          "lastUpdated": 1679200700691
+          "lastUpdated": 1695209799164
         }
       }
     },
-    "\\end{align}": {
-      "\\end{align}": {
+    "Isomorphism": {
+      "Isomorphism": {
         "currentFile": {
           "count": 1,
-          "lastUpdated": 1679200713312
-        }
-      }
-    },
-    "Kernel": {
-      "Kernel": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1679203394321
-        }
-      }
-    },
-    "satisfy": {
-      "satisfy": {
-        "currentFile": {
-          "count": 5,
-          "lastUpdated": 1679562232687
-        }
-      }
-    },
-    "B\\rightarrow": {
-      "B\\rightarrow": {
-        "currentFile": {
-          "count": 2,
-          "lastUpdated": 1679207578889
-        }
-      }
-    },
-    "\\Leftarrow": {
-      "\\Leftarrow": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1679207375883
-        }
-      }
-    },
-    "module": {
-      "module": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1679212317793
-        }
-      }
-    },
-    "Every": {
-      "Every": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1679212448921
-        }
-      }
-    },
-    "quotients": {
-      "quotients": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1679213111137
-        }
-      }
-    },
-    "M\\rightarrow": {
-      "M\\rightarrow": {
-        "currentFile": {
-          "count": 2,
-          "lastUpdated": 1679213657127
-        }
-      }
-    },
-    "homomorphism": {
-      "homomorphism": {
-        "currentFile": {
-          "count": 2,
-          "lastUpdated": 1679214387845
-        }
-      }
-    },
-    "image": {
-      "image": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1679214051948
-        }
-      }
-    },
-    "Cokernel": {
-      "Cokernel": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1679214750144
-        }
-      }
-    },
-    "cokernel": {
-      "cokernel": {
-        "currentFile": {
-          "count": 2,
-          "lastUpdated": 1679304375958
-        }
-      }
-    },
-    "Additive Categories": {
-      "Additive Categories": {
-        "internalLink": {
-          "count": 1,
-          "lastUpdated": 1679217826226
-        }
-      }
-    },
-    "\\varphi": {
-      "\\varphi": {
-        "currentFile": {
-          "count": 11,
-          "lastUpdated": 1679475326139
-        }
-      }
-    },
-    "kernel": {
-      "kernel": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1679308570072
-        }
-      }
-    },
-    "kernels": {
-      "kernels": {
-        "currentFile": {
-          "count": 2,
-          "lastUpdated": 1679311057117
+          "lastUpdated": 1695210465112
         }
       }
     },
     "monomorphism": {
       "monomorphism": {
         "currentFile": {
-          "count": 3,
-          "lastUpdated": 1679562363773
-        }
-      }
-    },
-    "epimorphism": {
-      "epimorphism": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1679308604414
-        }
-      }
-    },
-    "isomorphism": {
-      "isomorphism": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1679308624632
-        }
-      }
-    },
-    "coproducts": {
-      "coproducts": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1679309448688
-        }
-      }
-    },
-    "additive": {
-      "additive": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1679309520842
-        }
-      }
-    },
-    "product": {
-      "product": {
-        "currentFile": {
           "count": 2,
-          "lastUpdated": 1679311663226
-        }
-      }
-    },
-    "A\\rightarrow": {
-      "A\\rightarrow": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1679310395508
-        }
-      }
-    },
-    "A\\coprod": {
-      "A\\coprod": {
-        "currentFile": {
-          "count": 2,
-          "lastUpdated": 1679310942858
-        }
-      }
-    },
-    "\\alpha": {
-      "\\alpha": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1679310757270
-        }
-      }
-    },
-    "coproduct": {
-      "coproduct": {
-        "currentFile": {
-          "count": 2,
-          "lastUpdated": 1679361281131
-        }
-      }
-    },
-    "A\\oplus": {
-      "A\\oplus": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1679311424178
-        }
-      }
-    },
-    "\\usetikzlibrary{cd}": {
-      "\\usetikzlibrary{cd}": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1679312571583
-        }
-      }
-    },
-    "composition": {
-      "composition": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1679337723235
-        }
-      }
-    },
-    "-Module": {
-      "-Module": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1679338001013
-        }
-      }
-    },
-    "endowed": {
-      "endowed": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1679338130829
-        }
-      }
-    },
-    "identity": {
-      "identity": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1679338789782
-        }
-      }
-    },
-    "Free modules and presentations": {
-      "Free modules and presentations": {
-        "internalLink": {
-          "count": 1,
-          "lastUpdated": 1679359255852
-        }
-      }
-    },
-    "R\\mathrm{-Mod}": {
-      "R\\mathrm{-Mod}": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1679359978568
-        }
-      }
-    },
-    "x\\rightarrow": {
-      "x\\rightarrow": {
-        "currentFile": {
-          "count": 2,
-          "lastUpdated": 1679363374643
-        }
-      }
-    },
-    "f\\rightarrow": {
-      "f\\rightarrow": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1679363432133
-        }
-      }
-    },
-    "requirement": {
-      "requirement": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1679363598687
-        }
-      }
-    },
-    "X\\rightarrow": {
-      "X\\rightarrow": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1679403051260
-        }
-      }
-    },
-    "r_x^{-1}": {
-      "r_x^{-1}": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1679472818581
-        }
-      }
-    },
-    "basis": {
-      "basis": {
-        "currentFile": {
-          "count": 3,
-          "lastUpdated": 1679556000857
-        }
-      }
-    },
-    "\\hom_{R-\\mathrm{mod}}": {
-      "\\hom_{R-\\mathrm{mod}}": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1679475195287
-        }
-      }
-    },
-    "equivalent": {
-      "equivalent": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1679475222128
-        }
-      }
-    },
-    "injection": {
-      "injection": {
-        "currentFile": {
-          "count": 2,
-          "lastUpdated": 1679475243264
-        }
-      }
-    },
-    "\\mathrm{Ker}": {
-      "\\mathrm{Ker}": {
-        "currentFile": {
-          "count": 2,
-          "lastUpdated": 1679475276519
-        }
-      }
-    },
-    "\\mathcal{F}": {
-      "\\mathcal{F}": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1679477015023
+          "lastUpdated": 1695210675329
         }
       }
     },
@@ -1247,111 +523,183 @@
       "space": {
         "currentFile": {
           "count": 1,
-          "lastUpdated": 1679478918728
+          "lastUpdated": 1695210482300
         }
       }
     },
-    "independent": {
-      "independent": {
+    "vector": {
+      "vector": {
         "currentFile": {
-          "count": 6,
-          "lastUpdated": 1679563622639
+          "count": 1,
+          "lastUpdated": 1695210635284
         }
       }
     },
-    "minimum": {
-      "minimum": {
+    "definition": {
+      "definition": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1695212562780
+        }
+      }
+    },
+    "operation": {
+      "operation": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1695212680554
+        }
+      }
+    },
+    "commutative": {
+      "commutative": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1695212828820
+        }
+      }
+    },
+    "\\bigoplus_i": {
+      "\\bigoplus_i": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1695311062360
+        }
+      }
+    },
+    "的子模，且": {
+      "的子模，且": {
         "currentFile": {
           "count": 2,
-          "lastUpdated": 1679480894517
+          "lastUpdated": 1695312485677
         }
       }
     },
-    "\\sum\\limits_{i}r_{i}s_{i}": {
-      "\\sum\\limits_{i}r_{i}s_{i}": {
+    "“原创”的术语（科技在于换壳）": {
+      "“原创”的术语（科技在于换壳）": {
         "currentFile": {
           "count": 1,
-          "lastUpdated": 1679481182277
+          "lastUpdated": 1695314788814
         }
       }
     },
-    "maximal": {
-      "maximal": {
+    "\\sum_{i}": {
+      "\\sum_{i}": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1695395741111
+        }
+      }
+    },
+    "\\text{dir}": {
+      "\\text{dir}": {
         "currentFile": {
           "count": 2,
-          "lastUpdated": 1679561376544
+          "lastUpdated": 1695665844529
         }
       }
     },
-    "Proposition": {
-      "Proposition": {
+    "\\sum_{i\\in": {
+      "\\sum_{i\\in": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1695441937680
+        }
+      }
+    },
+    "行空间的定义": {
+      "行空间的定义": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1695451988693
+        }
+      }
+    },
+    "有限维复向量空间约尔当标准型的结构和计算": {
+      "有限维复向量空间约尔当标准型的结构和计算": {
         "currentFile": {
           "count": 2,
-          "lastUpdated": 1679555992636
+          "lastUpdated": 1695455556829
         }
       }
     },
-    "theorem": {
-      "theorem": {
+    "R^{\\oplus": {
+      "R^{\\oplus": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1695460816456
+        }
+      }
+    },
+    "下表示的元素相同。": {
+      "下表示的元素相同。": {
         "currentFile": {
           "count": 1,
-          "lastUpdated": 1679482522048
+          "lastUpdated": 1695457783206
         }
       }
     },
-    "Dimention": {
-      "Dimention": {
+    "算法：找到基变换矩阵的": {
+      "算法：找到基变换矩阵的": {
         "currentFile": {
           "count": 1,
-          "lastUpdated": 1679557165682
+          "lastUpdated": 1695457879992
         }
       }
     },
-    "\\mathfrak": {
-      "\\mathfrak": {
+    "\\text{id}": {
+      "\\text{id}": {
         "currentFile": {
-          "count": 19,
-          "lastUpdated": 1679567661149
+          "count": 3,
+          "lastUpdated": 1695459300203
         }
       }
     },
-    "consequence": {
-      "consequence": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1679558731873
-        }
-      }
-    },
-    "space\\": {
-      "space\\": {
+    "若两个线性映射可以用相同矩阵描述，则称这两个线性映射等价。由此可以得到，两个线性映射等价这个命题等价于两个线性映射可以由两个同构映射串联。": {
+      "若两个线性映射可以用相同矩阵描述，则称这两个线性映射等价。由此可以得到，两个线性映射等价这个命题等价于两个线性映射可以由两个同构映射串联。": {
         "currentFile": {
           "count": 1,
-          "lastUpdated": 1679559436548
+          "lastUpdated": 1695477177533
         }
       }
     },
-    "surjective": {
-      "surjective": {
+    "任意数量自由模的基组成自由模的直和的基。": {
+      "任意数量自由模的基组成自由模的直和的基。": {
         "currentFile": {
           "count": 1,
-          "lastUpdated": 1679560014842
+          "lastUpdated": 1695662458089
         }
       }
     },
-    "linear": {
-      "linear": {
+    "的内直和，则称作": {
+      "的内直和，则称作": {
         "currentFile": {
           "count": 1,
-          "lastUpdated": 1679561381262
+          "lastUpdated": 1695665425745
         }
       }
     },
-    "S\\rightarrow": {
-      "S\\rightarrow": {
+    "线性变换的定义": {
+      "线性变换的定义": {
         "currentFile": {
           "count": 1,
-          "lastUpdated": 1679562376838
+          "lastUpdated": 1695728159145
+        }
+      }
+    },
+    "线性变换和基变换互相导出": {
+      "线性变换和基变换互相导出": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1695728575207
+        }
+      }
+    },
+    "任意PID上的矩阵可以通过乘以可逆矩阵化为smite标准型": {
+      "任意PID上的矩阵可以通过乘以可逆矩阵化为smite标准型": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1695871199666
         }
       }
     }

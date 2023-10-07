@@ -4,23 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "8a0ffdaf1720d04e",
+        "id": "65aad43aca01c1af",
         "type": "tabs",
         "children": [
           {
-            "id": "34e5d64fc506a4ad",
+            "id": "4e430c16165ec489",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "代数学/Free modules and basis.md",
-                "mode": "preview",
+                "file": "数学/代数学/线性代数/LA06 PID有限生成模结构定理.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2c0509879e500201",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "实验.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -32,6 +46,7 @@
       {
         "id": "a4b6940cd49cecc2",
         "type": "tabs",
+        "dimension": 70.33045977011494,
         "children": [
           {
             "id": "90c096f9d11a4064",
@@ -49,7 +64,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": " ",
+                "query": "tag:#Mark",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,12 +80,44 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "f3e5a8f0c0ef963f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "a50cc348e82e30a5",
+            "type": "leaf",
+            "state": {
+              "type": "file-tree-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      },
+      {
+        "id": "a18dad8f3a2adfad",
+        "type": "tabs",
+        "dimension": 29.669540229885055,
+        "children": [
+          {
+            "id": "1ccf50b4d0c8495f",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 210.5
+    "width": 520.5
   },
   "right": {
     "id": "473df9f1d9a76a3f",
@@ -80,35 +127,6 @@
         "id": "094fd5dbfc04b453",
         "type": "tabs",
         "children": [
-          {
-            "id": "f1a5d55312973ffd",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "代数学/Free modules and basis.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "98db01b2682c05c9",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "代数学/Free modules and basis.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
           {
             "id": "f12aefdb5587dbad",
             "type": "leaf",
@@ -126,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "代数学/Free modules and basis.md"
+                "file": "实验.md"
               }
             }
           },
@@ -137,12 +155,52 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
+          },
+          {
+            "id": "46d67ba5084ce15f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "实验.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "142e302d12319375",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "实验.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "28273c07646027fe",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 398.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -154,55 +212,59 @@
       "command-palette:打开命令面板": false,
       "workspaces:管理工作区布局": false,
       "markdown-table-editor:Open Markdown Table Editor": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "file-tree-alternative:File Tree Alternative Plugin": false
     }
   },
-  "active": "34e5d64fc506a4ad",
+  "active": "2c0509879e500201",
   "lastOpenFiles": [
-    "代数学/Free modules and basis.md",
-    "基础集合相关/Relations.md",
-    "代数学/books/Paolo Aluffi - Algebra_ Chapter 0 (2nd printing)-American Mathematical Society(RI) (2009).pdf",
-    "代数学/Basic Category.md",
-    "代数学/Basic Module.md",
-    "分析学和拓扑/Bounded Linear Operator of Banach spaces.md",
-    "分析学和拓扑/Files/Pasted image 20230227204217.png",
-    "分析学和拓扑/Books/Herbert Amann, Joachim Escher - Analysis III-Birkhäuser (2009).pdf",
-    "基础集合相关/Basic Structure.md",
-    "代数学/Additive Categories.md",
-    "代数学/Abelian Categories.md",
-    "分析学和拓扑/Hilbert Spaces and Dual Mapping.md",
-    "代数学/Basic Algebra.md",
-    "adjoint.md",
-    "分析学和拓扑/Classical Differential Manifold.md",
-    "分析学和拓扑/Complete metric spaces.md",
-    "分析学和拓扑/Fliter, Net and Convergence.md",
-    "代数学/files/Pasted image 20230320201548.png",
-    "代数学/files/Pasted image 20230320192354.png",
-    "代数学/files/Pasted image 20230320191514.png",
-    "代数学/files/Pasted image 20230320183405.png",
-    "代数学/files/Pasted image 20230320183402.png",
-    "代数学/files/Pasted image 20230319121211.png",
-    "代数学/files/Pasted image 20230319121203.png",
-    "代数学/files/Pasted image 20230319120425.png",
-    "代数学/Abelian Category.md",
-    "代数学/files/Pasted image 20230319021552.png",
-    "未命名",
+    "数学/分析学和拓扑/测度理论，积分理论，实分析/RA02 非负扩展可测函数的积分.md",
+    "数学/代数学/线性代数/LA06 有限维自由模态射分类.md",
+    "数学/代数学/线性代数/LA06 PID有限生成模结构定理.md",
+    "数学/代数学/线性代数/LA05 线性变换与行列式.md",
+    "数学/代数学/线性代数/LA01 内直和分解和分裂的正合列.md",
+    "数学/代数学/线性代数/LA00 模的定义，模态射和直和与直积.md",
+    "数学/代数学/线性代数/LA04 自由模态射的矩阵表示.md",
+    "数学/代数学/books/(Undergraduate_texts_in_mathematics)_Sheldon_Axler_-_Linear_Algebra_Done_Right-Springer_(1997).pdf",
+    "数学/代数学/线性代数/LA03 自由模的直和与内直和.md",
+    "数学/代数学/线性代数/LA07 约尔当标准型和计算方法.md",
+    "数学/分析学和拓扑/测度理论，积分理论，实分析/RA03 向量可积函数的积分.md",
+    "数学/分析学和拓扑/测度理论，积分理论，实分析/RA04 实函数积分和扩展实函数积分.md",
+    "数学/分析学和拓扑/测度理论，积分理论，实分析/RA05 符号测度和符号测度上积分.md",
+    "数学/分析学和拓扑/测度理论，积分理论，实分析/RA06 测度的导数和正交分解.md",
+    "数学/代数学/线性代数/LA02 自由模，自由模的基和对偶基.md",
+    "数学/代数学/线性代数/LA05 核，像，余核和余像.md",
+    "数学/代数学/线性代数/LA05 对偶映射.md",
+    "数学/代数学/模论/MOD01 Categroy.md",
+    "数学/代数学/基础线性代数/LA00 从别处窃取的命题.md",
+    "数学/代数学/模论/~syncthing~MOD02 内直和分解.md.tmp",
+    "数学/代数学/复杂线性代数/~syncthing~FMOD00 Free modules and basis.md.tmp",
+    "关于互送礼物的活动的规划.md",
+    "任务地图.md",
+    "Temp/EXPE.md",
+    "Temp/~syncthing~EXPE.md.tmp",
     "快速系列/快速基物3/快速基物3.md",
     "快速系列/快速基物3/快速光学.md",
-    "现代仪器分析/光分析法导论.md",
     "快速系列/快速基物3/快速热力学.md",
-    "现代仪器分析/原子发射光谱法.md",
-    "有机化学/离域与共轭.md",
-    "有机化学/酸碱理论和$pK_a$.md",
-    "有机化学/对羰基的亲核加成.md",
-    "有机化学/酚类化合物.md",
-    "有机化学/空间效应和电子效应.md",
-    "~syncthing~分子吸光光谱法.md.tmp",
-    "有机化学/Books/clayden-chinese-20221228.pdf",
-    "基础化学",
-    "~syncthing~化学平衡.md.tmp",
-    "代数学/~syncthing~Basic Category.md.tmp",
-    "物理学基础/~syncthing~物理的语言.md.tmp",
-    "现代仪器分析/~syncthing~原子吸收光谱法.md.tmp"
+    "快速系列/快速系列.md",
+    "数学/集合/Basic Structure.md",
+    "数学",
+    "数学/代数学/模论",
+    "数学/代数学/线性代数",
+    "规划/23-24-1应化、化学物化实验II安排表.pdf",
+    "Measure Theorem and Real Analysis/未命名.canvas",
+    "规划/未命名.canvas",
+    "规划",
+    "Temp/files/4795DDE76D1636C96E3D6663951AB362.jpg",
+    "Temp/files",
+    "钙钛矿/Articles/YOOX9ZY}8X]@9_~~M5MAN1E.jpg",
+    "钙钛矿/files/Pasted image 20230823175908.png",
+    "钙钛矿/files/_N2MM89}H$`)ZD54_B1~4{3.png",
+    "钙钛矿/files/Pasted image 20230724143929.png",
+    "钙钛矿/files/Pasted image 20230724143356.png",
+    "钙钛矿/files/Pasted image 20230724143348.png",
+    "钙钛矿/files/Pasted image 20230724143337.png",
+    "钙钛矿/files/Pasted image 20230724143320.png",
+    "钙钛矿/files/Pasted image 20230723022635.png"
   ]
 }
