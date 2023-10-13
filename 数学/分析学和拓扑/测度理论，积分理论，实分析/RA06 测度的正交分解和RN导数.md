@@ -1,4 +1,4 @@
-# 正交分解和广义换元法
+# 正交分解和换测度积分法则
 
 ## Lebesgue-Radon-Nikodym定理
 
@@ -10,37 +10,47 @@ $$\nu = \lambda + \rho, \ d\rho = \frac{d\rho}{d\mu} d\mu, \ \lambda \perp \mu$$
 这种分解下$\lambda$是唯一的，$\frac{d\rho}{d\mu}$是$\mu$-a.e唯一的
 
 
->证明见[[#Appendix#Lebesgue-Radon-Nikodym 定理]]
+>证明见[[#Appendix#Lebesgue-Radon-Nikodym定理]]
 
 
-## Radon-Nikodym 导数的定义，性质和广义换元法
+## Radon-Nikodym 导数的定义，性质和换测度积分法则
 ### Radon-Nikodym导数的定义
-[[#Lebesgue-Radon-Nikodym 定理]]中的$\frac{d\rho}{d\mu}$被称作Radon-Nikodym 导数
+[[#Lebesgue-Radon-Nikodym定理]]中的$\frac{d\rho}{d\mu}$被称作Radon-Nikodym导数
 
 ### 一些Radon-Nikodym导数的性质
-假设下列$\nu,\nu_{1},\nu_{2},\mu,\lambda$都是可测空间$(X,\mathcal L)$上的$\sigma$有限符号测度
+假设下列$\nu,\nu_{1},\nu_{2},\mu,\lambda$都是可测空间$(X,\mathcal A)$上的$\sigma$有限符号测度
 * 线性性质：假设$\nu_{1}$和$\nu_2$相对$\mu$一致连续，则
 	$$\frac{d(a\nu_{1}+ b\nu_{2})}{\mu}  =  a\frac{d\nu_{1}}{d\mu} + b\frac{d\nu_{2}}{d\mu}$$
 >证明是简单的
 * 对求导元素的数乘的性质：若$\nu \ll \mu,a\neq 0$，则有$$\frac{d\nu}{d(a\mu)} = \frac{1}{a}\frac{d\nu}{d\mu}$$
 >证明是简单的
-* 广义换元法：假设$g \in \mathcal{L}_{1}(X,\nu,E)$，$\nu \ll \mu$，则$g\cdot \frac{d\nu}{d\mu} \in \mathcal{L}_{1}(X,\mu,E)$且
+* 换测度积分法则：假设$g \in \mathcal{L}_{1}(X,\nu,E)$，$\nu \ll \mu$，则$g\cdot \frac{d\nu}{d\mu} \in \mathcal{L}_{1}(X,\mu,E)$且
 	$$\int_{X} g \ d\nu = \int_{X} g\cdot \frac{d\nu}{d\mu} \ d\mu$$
->证明见[[#广义换元法]]
+>证明见[[#换测度积分法则]]
 * 链式法则：若$\nu\ll\mu\ll\lambda$，则几乎处处有
 	$$\frac{d\nu}{d\lambda} = \frac{d\nu}{d\mu}\frac{d\mu}{d\lambda}$$
+
 >证明：考察对任意可测集合$E$，根据链式法则有
 >$$\nu(E) = \int_{E} \frac{d\nu}{d\lambda} \ d\lambda = \int_{E}\frac{d\nu}{d\mu}\frac{d\mu}{d\lambda}\ d\lambda$$
 >根据Radon-Nikodym导数的唯一性得证
+
+### 更广义的换测度积分法则
+若下列$\nu,\mu$都是可测空间$(X,\mathcal L)$上的$\sigma$有限符号测度，$g \in \mathcal{L}_{1}(X,\nu,E)$，则$g\cdot \frac{d\nu}{d\mu} \in \mathcal{L}_{1}(X,\mu,E)$且
+$$\int_{X} g \ d\nu = \int_{X} g\cdot \frac{d\nu}{d\mu} \ d\mu + \int_{X} g \ (d\nu -\frac{d\nu}{d\mu} \ d\mu) $$
+>通过[[RA06 测度的正交分解和RN导数#Lebesgue-Radon-Nikodym定理]]将$\nu$拆成绝对连续和垂直的部分，再应用换测度积分法则即可
+
+
+
+
 
 # 等价符号测度，测度同胚和测度连续映射
 ## 等价的符号测度
 
 ### 定义：等价的符号测度
-若下列$\nu,\mu$都是可测空间$(X,\mathcal L)$上的$\sigma$有限符号测度，当$\nu\ll\mu$且$\mu\ll\nu$的时候我们就说$\mu$与$\nu$等价。
+若下列$\nu,\mu$都是可测空间$(X,\mathcal A)$上的$\sigma$有限符号测度，当$\nu\ll\mu$且$\mu\ll\nu$的时候我们就说$\mu$与$\nu$等价。
 
 ### 等价的符号测度的一些性质
-若下列$\nu,\mu$都是可测空间$(X,\mathcal L)$上的$\sigma$有限等价的符号测度，则
+若下列$\nu,\mu$都是可测空间$(X,\mathcal A)$上的$\sigma$有限等价的符号测度，则
 * $\mu$上的向量值积分都可以用$\nu$上的向量值积分计算
 * $\nu$上的向量值积分都可以用$\mu$上的向量值积分计算
 * 几乎处处(两个测度意义下几乎处处等价)下有：
@@ -49,11 +59,39 @@ $$\nu = \lambda + \rho, \ d\rho = \frac{d\rho}{d\mu} d\mu, \ \lambda \perp \mu$$
 > $$\frac{d\mu}{d\mu} = \frac{d\mu}{d\nu} \frac{d\nu}{d\mu}$$
 > 即可
 
-## 测度同胚，测度连续映射
+## 测度同胚和换元法
+### 函数的拉回和诱导测度
+若$(X,\mathcal A)$和$(Y,\mathcal B)$都是可测空间，若单射$f\in Y^{X}$满足对任意$X$中可测集合$A$，都有$f(A)$在$Y$中可测，则给定任意$Y$上符号测度$\nu$，如下$(X,\mathcal A)$上的集合函数是符号测度：$$f^{*}\nu := \lambda A . \nu(f(A))$$
+>证明是简单的
+
+### 测度同胚
+若$(X,\mathcal A)$和$(Y,\mathcal B)$都是可测空间，若双射$f\in Y^{X}$满足：
+* 若$A\subseteq X$可测则$f(A)$可测
+* 若$B\subseteq Y$可测则$f^{-1}(B)$可测
+则$f$就被称作测度同胚。我们还可得出若$f$是测度同胚则$f^{-1}$也是测度同胚
+
+### 测度同胚的性质
+若$(X,\mathcal A)$和$(Y,\mathcal B)$都是可测空间，$f\in Y^{X}$是一测度同胚，$\nu$是$Y$上一符号测度，则有如下性质：
+* 二次拉回等于自身：
+	$$(f^{-1})^{*} f^{*} \nu = \nu$$
+>这可以通过考察定义简单证明
+* 若$\varphi \in \mathcal S(X,f^{*}\nu,\mathbb E)$，则$\varphi \circ f^{-1} \in \mathcal S(X,\nu,\mathbb E)$，且：
+	$$\int_{X}\varphi \ df^{*}\nu = \int_{Y}\varphi \circ f^{-1} \ d\nu$$
+* 若$\varphi \in \mathcal S(X,\nu,\mathbb E)$，则$\varphi \circ f \in \mathcal S(X,f^{*}\nu,\mathbb E)$，且
+	$$\int_{X}\varphi\circ f \ df^{*}\nu = \int_{Y}\varphi \ d\nu$$
+>上述两条将简单函数拆解成特征函数线性组合即可
+* 若$g \in \mathcal L_{0}(X,\nu,\mathbb E)$，则$g \circ f \in \mathcal L_{0}(X,f^{*}\nu,\mathbb E)$，且
+	$$\int_{X}g\circ f \ df^{*}\nu = \int_{Y}g \ d\nu$$
+>考虑简单函数的收敛过程，重新走一遍之前所有小节的证明即可。我肯定不会再写一遍证明的。
+
+### 换元法
+若$(X,\mathcal A)$和$(Y,\mathcal B)$都是可测空间，$f\in Y^{X}$是一测度同胚，$\nu$是$Y$上一符号测度，则我们可以用如下方式计算积分：
+$$\int_{Y}g \ d\nu =\int_{X}g\circ f \ df^{*}\nu$$
+若$\mu$是$X$上一符号测度且$f^{*}\nu \ll \mu$，则可以用$\mu$上积分进一步转换：
+$$\int_{Y}g \ d\nu =\int_{X}g\circ f \ df^{*}\nu =\int_{X}g\circ f \cdot \frac{d\nu}{d\mu}  \ d\mu $$
 
 
-
-
+# 求Radon-Nikodym导数：在勒贝格测度下
 
 
 
@@ -62,7 +100,7 @@ $$\nu = \lambda + \rho, \ d\rho = \frac{d\rho}{d\mu} d\mu, \ \lambda \perp \mu$$
 # Appendix
 
 
-## Lebesgue-Radon-Nikodym 定理
+## Lebesgue-Radon-Nikodym定理
 同一个可测空间上若有两个$\sigma$有限符号测度$\mu,\nu$，则$\nu$总能写成如下形式：
 $$\nu = \lambda + \rho, \ d\rho = \frac{d\rho}{d\mu} d\mu, \ \lambda \perp \mu$$
 其中$\lambda$和$\rho$都是$\sigma$有限正测度
@@ -130,8 +168,8 @@ $$d\lambda - d\lambda' = (f-f')d\mu$$
 ### $\nu,\mu$都是$\sigma$有限符号测度的情况的证明
 **那就拆成$\sigma$有限测度！懒得写了**
 
-## 广义换元法
-若下列$\nu,\mu$都是可测空间$(X,\mathcal L)$上的$\sigma$有限符号测度，$g \in \mathcal{L}_{1}(X,\nu,E)$，$\nu \ll \mu$，则$g\cdot \frac{d\nu}{d\mu} \in \mathcal{L}_{1}(X,\mu,E)$且
+## 换测度积分法则
+若下列$\nu,\mu$都是可测空间$(X,\mathcal A)$上的$\sigma$有限符号测度，$g \in \mathcal{L}_{1}(X,\nu,E)$，$\nu \ll \mu$，则$g\cdot \frac{d\nu}{d\mu} \in \mathcal{L}_{1}(X,\mu,E)$且
 	$$\int_{X} g \ d\nu = \int_{X} g\cdot \frac{d\nu}{d\mu} \ d\mu$$
 
 ### $\nu$和$\mu$都是测度的情况的证明
