@@ -1,4 +1,4 @@
-# 正交分解和换测度积分法则
+# 正交分解，RN导数和换测度积分法则
 
 ## Lebesgue-Radon-Nikodym定理
 
@@ -43,8 +43,7 @@ $$\int_{X} g \ d\nu = \int_{X} g\cdot \frac{d\nu}{d\mu} \ d\mu + \int_{X} g \ (d
 
 
 
-# 等价符号测度，测度同胚和测度连续映射
-## 等价的符号测度
+# 等价符号测度，测度同胚和换元法
 
 ### 定义：等价的符号测度
 若下列$\nu,\mu$都是可测空间$(X,\mathcal A)$上的$\sigma$有限符号测度，当$\nu\ll\mu$且$\mu\ll\nu$的时候我们就说$\mu$与$\nu$等价。
@@ -91,7 +90,67 @@ $$\int_{Y}g \ d\nu =\int_{X}g\circ f \ df^{*}\nu$$
 $$\int_{Y}g \ d\nu =\int_{X}g\circ f \ df^{*}\nu =\int_{X}g\circ f \cdot \frac{d\nu}{d\mu}  \ d\mu $$
 
 
-# 求Radon-Nikodym导数：在勒贝格测度下
+# 在勒贝格测度下求Radon-Nikodym导数
+	本节致力于求R^n上满足特定情况的符号测度相对于勒贝格测度的RN导数
+
+## 本H1中的符号的说明
+在本H1中，给定欧几里得$R^n$空间任意一种能生成欧几里得拓扑的范数，则所有定理都可看做是在此范数下进行的。
+在非$\lambda$表达式的语境下，$\lambda$代表欧几里得空间的勒贝格测度
+默认用$R^n$表示带有勒贝格测度的$n$维实空间
+
+
+## 最大值定理
+### 局部可积函数
+若定义在$R^n$的子集$X$上的向量值函数$f$满足对于任意$X$中有界集合$K$都有：
+$$\int_{K} |f| \ d\lambda$$
+是有限的，则这种函数被称作局部可积函数。
+
+
+
+
+### 无名引理
+若$\mathcal C$是一$R^n$中开球组成的集合，令$U = \bigcup_{B\in\mathcal C} B$。则对任意小于$\lambda(U)$的正实数$c$，我们都可在$\mathcal C$中选择有限个互相不相交的$B_{i}$使得
+$$\sum\limits_{i} \lambda(B_{i}) > 3^{-n}c$$
+>证明：由勒贝格测度的正则性，我们可以找到测度大于$c$的$U$的子集$K$。我们在构成$U$的开球中选择$K$的有限覆盖$A_{i}$。取$A_{i}$中半径最大的元素为$B_{1}$，再在$A_{i}$中取*和前面取得的任意元素都不交*的元素中半径最大的元素为$B_{i}$。则当取集合操作完毕时我们能得到半径单调递减的有限开球列$B_{i}$
+>此时对于任意$A_{i}$，要么$A_{i}$就在就是某一个$B_{j}$，要么与某一个$B_{j}$相交。若$A_{i}$与某一个$B_{j}$相交，则取指标最小的与$A_{i}$相交的集合$B_{k}$。由于我们的取值总是取得的满足条件的半径最大的元素，所以$B_{k}$的半径不小于$A_{i}$。设中心点和$B_{k}$相同且半径三倍于$B_{k}$的开球为$B_{k}^{*}$由三角不等式可以证明$A_{i}\in B_{k}^{*}$。从而：
+>$$\lambda(K) \leq \lambda(\bigcup_{k} B_{k}^{*}) \leq \sum\limits_{k} \lambda (B_{k}^{*}) = 3^{n} \sum\limits_{k} \lambda (B_{k})$$
+>所以
+>$$\lambda (B_{k}) \geq 3^{-n}\lambda(K)>3^{-n}c$$
+
+### 积分平均值
+若测度空间$(X,\mathcal A,\mu)$上有符号可积函数$f$，则我们定义$f$在可测集$S$上的积分平均值为：
+$$A_{S}: = \frac{1}{\mu(S)}\int_{S} f \ d\mu$$
+若此测度空间为$R^n$，则我们定义如下函数：
+$$A_{\bullet}f(\bullet) := \lambda(r,a). \frac{1}{\mu(B(r,a))}\int_{B(r,a)} f \ d\mu \in \mathbb E^{((0,+\infty),X)}$$
+此函数被叫做*开球平均值函数*
+
+### 局部可积函数的开球积分平均值函数是连续的
+若$f$是$R^n$上某一开集$X$上的一局部可积向量值函数，则$A_{\bullet}f(\bullet)$是连续的
+>假设$(r_i,a_i)\rightarrow (r,a)$，则必有一正整数$N$使得：
+>$$\forall i>N: |r_{i} -r|<1, |a_{i}- a|<1$$
+>此时我们能得知：
+>$$\forall i>N: B(r_i,a_{i})\subseteq B(r+2,a)$$
+>由$f$是局部可积的，我们可以得知：
+>$$\int_{X} |\kappa_{B(r+2,a)}f| \ d\mu =\int_{B(r+2,a)} |f| \ d\mu < \infty$$
+>且$|\kappa_{B(r_i,a_{i})} f| <|\kappa_{B(r+2,a)}f|$，$\kappa_{B(r_i,a_{i})} f \rightarrow \kappa_{B(r+2,a)}f$，由控制收敛定理：
+>$$\int_{X} \kappa_{B(r_i,a_{i})} f \ d\mu \rightarrow\int_{B(r+2,a)} \kappa_{B(r,a)} f \ d\mu$$
+>这证明了
+>$$\int_{B(r,a)} f \ d\mu$$
+>是连续的。根据之前的内容，开球的测度是半径的连续函数。从而$A_{\bullet}f(\bullet)$是连续的
+
+### Hardy-Littlewood最大值函数
+若$f$是$R^n$上某一开集$X$上的一局部可积向量值函数，定义$f$的*Hardy-Littlewood最大值函数*为：
+$$H f := \lambda x. \sup_{r>0} A_{r}|f|(x)$$
+此函数是可测的
+>可测性可以由分析$(a,+\infty)$的原象得到
+
+### 最大值定理
+
+
+
+
+
+
 
 
 
@@ -99,8 +158,6 @@ $$\int_{Y}g \ d\nu =\int_{X}g\circ f \ df^{*}\nu =\int_{X}g\circ f \cdot \frac{d
 ****
 # Appendix
 
-
-## Lebesgue-Radon-Nikodym定理
 同一个可测空间上若有两个$\sigma$有限符号测度$\mu,\nu$，则$\nu$总能写成如下形式：
 $$\nu = \lambda + \rho, \ d\rho = \frac{d\rho}{d\mu} d\mu, \ \lambda \perp \mu$$
 其中$\lambda$和$\rho$都是$\sigma$有限正测度
@@ -190,7 +247,6 @@ $$\left|g_{i}\frac{d\nu}{d\mu}-g_{j}\frac{d\nu}{d\mu}\right|_{\mathcal{L}_{1}(X,
 **应用收敛的有关定理**
 应用[[RA03 向量可积函数的积分#在$ mathcal L_{1}(X, mu, mathbb E)$中函数列为Cauthy列且$ mathcal L_{0}(X, mu, mathbb E)$收敛于某函数则该函数列也$ mathcal L_{1}(X, mu, mathbb E)$中收敛于该函数|这个定理]]得到在$\mathcal{L}_{1}(X,\mu,E)$中$g_{i}\frac{d\nu}{d\mu}$收敛至$g\frac{d\nu}{d\mu}$。从而：
 $$\int_{X} g\cdot \frac{d\nu}{d\mu} \ d\mu =\lim_{i}\int_{X}g_{i}\frac{d\nu}{d\mu}\ d\mu = \lim_{i}\int_{X}g_{i}\ d\nu = \int_{X} g \ d\nu $$
-
 
 ### $\nu$和$\mu$都是符号测度的情况的证明
 将$\nu$和$\mu$同时进行Hahn分解至$A,B,C,D$四个集合，分别计算其积分即可。
