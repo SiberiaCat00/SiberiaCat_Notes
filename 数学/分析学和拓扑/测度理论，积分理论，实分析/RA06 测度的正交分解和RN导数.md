@@ -43,52 +43,6 @@ $$\int_{X} g \ d\nu = \int_{X} g\cdot \frac{d\nu}{d\mu} \ d\mu + \int_{X} g \ (d
 
 
 
-# 等价符号测度，测度同胚和换元法
-
-### 定义：等价的符号测度
-若下列$\nu,\mu$都是可测空间$(X,\mathcal A)$上的$\sigma$有限符号测度，当$\nu\ll\mu$且$\mu\ll\nu$的时候我们就说$\mu$与$\nu$等价。
-
-### 等价的符号测度的一些性质
-若下列$\nu,\mu$都是可测空间$(X,\mathcal A)$上的$\sigma$有限等价的符号测度，则
-* $\mu$上的向量值积分都可以用$\nu$上的向量值积分计算
-* $\nu$上的向量值积分都可以用$\mu$上的向量值积分计算
-* 几乎处处(两个测度意义下几乎处处等价)下有：
-	$$\frac{d\nu}{d\mu} \frac{d\mu}{d\nu} =1$$
-> 考虑几乎处处有
-> $$\frac{d\mu}{d\mu} = \frac{d\mu}{d\nu} \frac{d\nu}{d\mu}$$
-> 即可
-
-## 测度同胚和换元法
-### 函数的拉回和诱导测度
-若$(X,\mathcal A)$和$(Y,\mathcal B)$都是可测空间，若单射$f\in Y^{X}$满足对任意$X$中可测集合$A$，都有$f(A)$在$Y$中可测，则给定任意$Y$上符号测度$\nu$，如下$(X,\mathcal A)$上的集合函数是符号测度：$$f^{*}\nu := \lambda A . \nu(f(A))$$
->证明是简单的
-
-### 测度同胚
-若$(X,\mathcal A)$和$(Y,\mathcal B)$都是可测空间，若双射$f\in Y^{X}$满足：
-* 若$A\subseteq X$可测则$f(A)$可测
-* 若$B\subseteq Y$可测则$f^{-1}(B)$可测
-则$f$就被称作测度同胚。我们还可得出若$f$是测度同胚则$f^{-1}$也是测度同胚
-
-### 测度同胚的性质
-若$(X,\mathcal A)$和$(Y,\mathcal B)$都是可测空间，$f\in Y^{X}$是一测度同胚，$\nu$是$Y$上一符号测度，则有如下性质：
-* 二次拉回等于自身：
-	$$(f^{-1})^{*} f^{*} \nu = \nu$$
->这可以通过考察定义简单证明
-* 若$\varphi \in \mathcal S(X,f^{*}\nu,\mathbb E)$，则$\varphi \circ f^{-1} \in \mathcal S(X,\nu,\mathbb E)$，且：
-	$$\int_{X}\varphi \ df^{*}\nu = \int_{Y}\varphi \circ f^{-1} \ d\nu$$
-* 若$\varphi \in \mathcal S(X,\nu,\mathbb E)$，则$\varphi \circ f \in \mathcal S(X,f^{*}\nu,\mathbb E)$，且
-	$$\int_{X}\varphi\circ f \ df^{*}\nu = \int_{Y}\varphi \ d\nu$$
->上述两条将简单函数拆解成特征函数线性组合即可
-* 若$g \in \mathcal L_{0}(X,\nu,\mathbb E)$，则$g \circ f \in \mathcal L_{0}(X,f^{*}\nu,\mathbb E)$，且
-	$$\int_{X}g\circ f \ df^{*}\nu = \int_{Y}g \ d\nu$$
->考虑简单函数的收敛过程，重新走一遍之前所有小节的证明即可。我肯定不会再写一遍证明的。
-
-### 换元法
-若$(X,\mathcal A)$和$(Y,\mathcal B)$都是可测空间，$f\in Y^{X}$是一测度同胚，$\nu$是$Y$上一符号测度，$g\in \mathcal L_{1}(Y,\mu,\mathbb E)$或者$g \in \mathcal L_{1^{-}}(Y,\mu,\mathbb R)$，则我们可以用如下方式计算积分：
-$$\int_{Y}g \ d\nu =\int_{X}g\circ f \ df^{*}\nu$$
-若$\mu$是$X$上一符号测度且$f^{*}\nu \ll \mu$，则可以用$\mu$上积分进一步转换：
-$$\int_{Y}g \ d\nu =\int_{X}g\circ f \ df^{*}\nu =\int_{X}g\circ f \cdot \frac{df^{*}\nu}{d\mu}  \ d\mu $$
-
 
 # 在lebesgue测度下求Radon-Nikodym导数
 	本节致力于求R^n上满足特定情况的符号测度相对于lebesgue测度的RN导数 
@@ -188,7 +142,7 @@ $$\lambda(\{x:Hf(x)>\alpha\}) \leq \frac{C}{\alpha} \int_{R^{n}}|f| \ d\lambda$$
 >即对于几乎处处$x\in X$
 >$$\lim_{r\rightarrow0^{+}} |A_{r} f(x) - f(x)|=0\text{  且 }A_{r}f(x) = f(x)$$
 
-这定理说明了若Borel测度$\mu$相对于$\lambda$一致连续且局部可积（即在任意有界可测集合上都可积分），则$$\frac{d\mu}{d\lambda}(x) =\lim_{r\rightarrow 0} \frac{\mu(B(r,x))}{\lambda(B(r,x))}$$
+这定理说明了若Borel测度$\mu$相对于$\lambda$一致连续且局部有限（即在任意有界可测集合上都可积分），则$$\frac{d\mu}{d\lambda}(x) =\lim_{r\rightarrow 0} \frac{\mu(B(r,x))}{\lambda(B(r,x))}$$
 ### Lebesgue集合的定义
 若在某一$R^{n}$开集$X$上有$f\in \mathcal L_{1,loc} (X,\lambda,\mathbb E)$，我们定义
 $$L_{f} = \left[ \lim_{r\rightarrow 0} \frac{1}{\lambda(B(r,x))}\int_{B(r,x)} |f-f(x)| \ d\lambda = 0\right ]_{x}$$
@@ -221,7 +175,7 @@ $$L_{f} = \left[ \lim_{r\rightarrow 0} \frac{1}{\lambda(B(r,x))}\int_{B(r,x)} |f
 
 
 
-### 勒贝格导数定理
+### 勒贝格微分定理
 设$X$是${\mathbb R}^n$一子集，若$f\in \mathcal L_{1,loc} (X,\lambda,\mathbb E)$，则对于几乎处处$x$和任意$E_{r}$ Shrink Nicely to $x$ 有：
 $$\lim _{r\rightarrow 0^{+}} \frac{1}{\lambda(E_{r})} \int_{E_{r}} |f -f(x)| \ d\lambda = 0$$
 和
@@ -232,8 +186,8 @@ $$\lim _{r\rightarrow 0^{+}} \frac{1}{\lambda(E_{r})} \int_{E_{r}} f  \ d\lambda
 
 
 ## 求外正则符号测度相对于Lebesgue测度的导数
-
-
+#Mark 
+这一节先不写
 
 
 
