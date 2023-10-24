@@ -90,13 +90,13 @@ $$\int_{Y}g \ d\nu =\int_{X}g\circ f \ df^{*}\nu$$
 $$\int_{Y}g \ d\nu =\int_{X}g\circ f \ df^{*}\nu =\int_{X}g\circ f \cdot \frac{df^{*}\nu}{d\mu}  \ d\mu $$
 
 
-# 在勒贝格测度下求Radon-Nikodym导数
-	本节致力于求R^n上满足特定情况的符号测度相对于勒贝格测度的RN导数 
+# 在lebesgue测度下求Radon-Nikodym导数
+	本节致力于求R^n上满足特定情况的符号测度相对于lebesgue测度的RN导数 
 
 ## 本H1中的符号的说明
 在本H1中，给定欧几里得$R^n$空间任意一种能生成欧几里得拓扑的范数，则所有定理都可看做是在此范数下进行的。
-在非$\lambda$表达式的语境下，$\lambda$代表欧几里得空间的勒贝格测度
-默认用$R^n$表示带有勒贝格测度的$n$维实空间
+在非$\lambda$表达式的语境下，$\lambda$代表欧几里得空间的lebesgue测度
+默认用$R^n$表示带有lebesgue测度的$n$维实空间
 
 
 ## 最大值定理
@@ -141,7 +141,7 @@ $$H f := \lambda x. \sup_{r>0} A_{r}|f|(x)$$
 ### 无名引理
 若$\mathcal C$是一$R^n$中开球组成的集合，令$U = \bigcup_{B\in\mathcal C} B$。则对任意小于$\lambda(U)$的正实数$c$，我们都可在$\mathcal C$中选择有限个互相不相交的$B_{i}$使得
 $$\sum\limits_{i} \lambda(B_{i}) > 3^{-n}c$$
->证明：由勒贝格测度的正则性，我们可以找到测度大于$c$的$U$的子集$K$。我们在构成$U$的开球中选择$K$的有限覆盖$A_{i}$。取$A_{i}$中半径最大的元素为$B_{1}$，再在$A_{i}$中取*和前面取得的任意元素都不交*的元素中半径最大的元素为$B_{i}$。则当取集合操作完毕时我们能得到半径单调递减的有限开球列$B_{i}$
+>证明：由lebesgue测度的正则性，我们可以找到测度大于$c$的$U$的子集$K$。我们在构成$U$的开球中选择$K$的有限覆盖$A_{i}$。取$A_{i}$中半径最大的元素为$B_{1}$，再在$A_{i}$中取*和前面取得的任意元素都不交*的元素中半径最大的元素为$B_{i}$。则当取集合操作完毕时我们能得到半径单调递减的有限开球列$B_{i}$
 >此时对于任意$A_{i}$，要么$A_{i}$就在就是某一个$B_{j}$，要么与某一个$B_{j}$相交。若$A_{i}$与某一个$B_{j}$相交，则取指标最小的与$A_{i}$相交的集合$B_{k}$。由于我们的取值总是取得的满足条件的半径最大的元素，所以$B_{k}$的半径不小于$A_{i}$。设中心点和$B_{k}$相同且半径三倍于$B_{k}$的开球为$B_{k}^{*}$由三角不等式可以证明$A_{i}\in B_{k}^{*}$。从而：
 >$$\lambda(K) \leq \lambda(\bigcup_{k} B_{k}^{*}) \leq \sum\limits_{k} \lambda (B_{k}^{*}) = 3^{n} \sum\limits_{k} \lambda (B_{k})$$
 >所以
@@ -157,7 +157,7 @@ $$\lambda(\{x:Hf(x)>\alpha\}) \leq \frac{C}{\alpha} \int_{R^{n}}|f| \ d\lambda$$
 >由于$c$可以被设置为任何小于$\lambda(E_{\alpha})$的值，我们得到了
 >$$\lambda(\{x:Hf(x)>\alpha\}) \leq \frac{3^{n}}{\alpha} \int_{R^{n}}|f| \ d\lambda$$
 
-## 勒贝格微分定理
+## lebesgue微分定理
 ### 通过开球上的平均值还原局部有限的$R^{n}$Borel测度的导数
 若在某一$R^{n}$开集$X$上有$f\in \mathcal L_{1,loc} (X,\lambda,\mathbb E)$，则对于几乎处处的$x$有$\lim_{r\rightarrow 0} A_{r}f(x) = f(x)$
 
@@ -194,6 +194,48 @@ $$\lambda(\{x:Hf(x)>\alpha\}) \leq \frac{C}{\alpha} \int_{R^{n}}|f| \ d\lambda$$
 $$L_{f} = \left[ \lim_{r\rightarrow 0} \frac{1}{\lambda(B(r,x))}\int_{B(r,x)} |f-f(x)| \ d\lambda = 0\right ]_{x}$$
 
 ### 若$f\in \mathcal L_{1,loc} (X,\lambda,\mathbb E)$，则$f$的Lebesgue集合的补是零测的
+设$X$是${\mathbb R}^n$一子集，若$f\in \mathcal L_{1,loc} (X,\lambda,\mathbb E)$，则$f$的Lebesgue集合的补是零测的
+>对任意$e\in \mathbb E$和$X$中有界集合，
+>$$\int_{K}|f(x)-e| \ d\lambda \leq |\kappa_{K}f|_{\mathcal L_{1}} + |e| \lambda(K)$$
+>从而$f_{e} :=\lambda x. |f(x) - e|$是局部可积分的。
+>
+>对$f_{c}$应用[[#通过开球上的平均值还原局部有限的 R n Borel测度的导数]]即可得到：
+>存在一lebesgue零测集$E_{e}$，对$\forall  x \notin E_{e}$有
+>$$\lim_{r\rightarrow 0^{+}} \frac{1}{\lambda(B(r,x))} \int_{B(r,x)} |f-e| \ d\lambda = |f(x)-e| $$
+>----
+>由于$f$是可测的，我们得知存在lebesgue零测集$E_0$使得$f(E_{0}^{c})$可分。现考虑$f(E_{0}^{c})$的可数稠密子集$D$。定义：
+>$$E : = E_{0}^{c} \cup  \bigcup_{e\in D} E_e$$
+>则$E$是lebesgue零测的。我们将证明$E^c$是Lebesgue集的子集
+>----
+>对于$x\in E^{c}$和任意正实数$\varepsilon$，我们都可在$D$中找到一点$e$使得$|f(x) - e |< \varepsilon$，从而
+>$$\forall y \in E :|f(y) -f(x)| \leq |f(y) -e| + |f(x)-e|<|f(y) -e| + \varepsilon$$
+>从而有：
+>$$\begin{align}\varlimsup _{r\rightarrow 0^{+}} \frac{1}{\lambda(B(r,x))} \int_{B(r,x)} |f -f(x)| \ d\lambda \leq& \varlimsup _{r\rightarrow 0^{+}} \frac{1}{\lambda(B(r,x))} \left(\int_{B(r,x)} |f -e|\ d\lambda + \int_{B(r,x)}|e-f(x)| \ d\lambda \right)\\ <& |f(x) -e| + \varepsilon \\ \leq& 2\varepsilon&& \end{align}$$
+>通过取趋近于0的$\varepsilon$值即可证明
+>$$\lim _{r\rightarrow 0^{+}} \frac{1}{\lambda(B(r,x))} \int_{B(r,x)} |f -f(x)| \ d\lambda = 0$$
+
+### Shrink Nicely的定义
+某一$R^{n}$开集$X$上Lebesgue可测子集列$E_{r}$若满足如下条件则被称作Shrink Nicely to $x\in X$：
+* $\forall r>0:E_{r} \subseteq B(r,x)$
+* 存在一正实数$\alpha$使得$\forall r>0: \lambda(E_{r})> \alpha \lambda(B(r,x))$
+
+
+
+### 勒贝格导数定理
+设$X$是${\mathbb R}^n$一子集，若$f\in \mathcal L_{1,loc} (X,\lambda,\mathbb E)$，则对于几乎处处$x$和任意$E_{r}$ Shrink Nicely to $x$ 有：
+$$\lim _{r\rightarrow 0^{+}} \frac{1}{\lambda(E_{r})} \int_{E_{r}} |f -f(x)| \ d\lambda = 0$$
+和
+$$\lim _{r\rightarrow 0^{+}} \frac{1}{\lambda(E_{r})} \int_{E_{r}} f  \ d\lambda = f(x)$$
+>简单考虑
+>$$\begin{align} \frac{1}{\lambda(E_{r})} \int_{E_{r}} |f -f(x)| \ d\lambda \leq&  \frac{1}{\lambda(E_{r})} \int_{B(r,x)} |f -f(x)| \ d\lambda\\ \leq &  \frac{1}{\alpha\lambda(B(r,x))} \int_{B(r,x)} |f -f(x)| \ d\lambda  \end{align}$$
+>并应用[[#若$f in mathcal L_{1,loc} (X, lambda, mathbb E)$，则$f$的Lebesgue集合的补是零测的]]即可
+
+
+## 求外正则符号测度相对于Lebesgue测度的导数
+
+
+
+
 
 
 
