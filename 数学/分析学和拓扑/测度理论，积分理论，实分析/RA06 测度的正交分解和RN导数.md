@@ -4,12 +4,13 @@
 
 ### Lebesgue-Radon-Nikodym定理
 同一个可测空间上若有两个$\sigma$有限符号测度$\mu,\nu$，则$\nu$总能写成如下形式：
+>[!Proof]
 $$\nu = \lambda + \rho, \ d\rho = \frac{d\rho}{d\mu} d\mu, \ \lambda \perp \mu$$
 即同一可测空间上的任意符号测度$\nu$总是能写成垂直于另一符号测度$\mu$的部分和$\mu$下积分的部分
 
 这种分解下$\lambda$是唯一的，$\frac{d\rho}{d\mu}$是$\mu$-a.e唯一的
 
-
+>[!Proof]
 >证明见[[#Appendix#Lebesgue-Radon-Nikodym定理]]
 
 
@@ -21,15 +22,22 @@ $$\nu = \lambda + \rho, \ d\rho = \frac{d\rho}{d\mu} d\mu, \ \lambda \perp \mu$$
 假设下列$\nu,\nu_{1},\nu_{2},\mu,\lambda$都是可测空间$(X,\mathcal A)$上的$\sigma$有限符号测度
 * 线性性质：假设$\nu_{1}$和$\nu_2$相对$\mu$一致连续，则
 	$$\frac{d(a\nu_{1}+ b\nu_{2})}{\mu}  =  a\frac{d\nu_{1}}{d\mu} + b\frac{d\nu_{2}}{d\mu}$$
+
+>[!Proof]
 >证明是简单的
 * 对求导元素的数乘的性质：若$\nu \ll \mu,a\neq 0$，则有$$\frac{d\nu}{d(a\mu)} = \frac{1}{a}\frac{d\nu}{d\mu}$$
+
+>[!Proof]
 >证明是简单的
 * 换测度积分法则：假设$g \in \mathcal{L}_{1}(X,\nu,E)$，$\nu \ll \mu$，则$g\cdot \frac{d\nu}{d\mu} \in \mathcal{L}_{1}(X,\mu,E)$且
 	$$\int_{X} g \ d\nu = \int_{X} g\cdot \frac{d\nu}{d\mu} \ d\mu$$
+	
+>[!Proof]
 >证明见[[#换测度积分法则]]
 * 链式法则：若$\nu\ll\mu\ll\lambda$，则几乎处处有
 	$$\frac{d\nu}{d\lambda} = \frac{d\nu}{d\mu}\frac{d\mu}{d\lambda}$$
-
+	
+>[!Proof]
 >证明：考察对任意可测集合$E$，根据链式法则有
 >$$\nu(E) = \int_{E} \frac{d\nu}{d\lambda} \ d\lambda = \int_{E}\frac{d\nu}{d\mu}\frac{d\mu}{d\lambda}\ d\lambda$$
 >根据Radon-Nikodym导数的唯一性得证
@@ -37,6 +45,7 @@ $$\nu = \lambda + \rho, \ d\rho = \frac{d\rho}{d\mu} d\mu, \ \lambda \perp \mu$$
 ### 更广义的换测度积分法则
 若下列$\nu,\mu$都是可测空间$(X,\mathcal L)$上的$\sigma$有限符号测度，$g \in \mathcal{L}_{1}(X,\nu,E)$，则$g\cdot \frac{d\nu}{d\mu} \in \mathcal{L}_{1}(X,\mu,E)$且
 $$\int_{X} g \ d\nu = \int_{X} g\cdot \frac{d\nu}{d\mu} \ d\mu + \int_{X} g \ (d\nu -\frac{d\nu}{d\mu} \ d\mu) $$
+>[!Proof]
 >通过[[RA06 测度的正交分解和RN导数#Lebesgue-Radon-Nikodym定理]]将$\nu$拆成绝对连续和垂直的部分，再应用换测度积分法则即可
 
 
@@ -72,6 +81,7 @@ $$A_{\bullet}f(\bullet) := \lambda(r,a). \frac{1}{\mu(B(r,a))}\int_{B(r,a)} f \ 
 
 ### 局部可积函数的开球积分平均值函数是连续的
 若$f$是$R^n$上某一开集$X$上的一局部可积向量值函数，则$A_{\bullet}f(\bullet)$是连续的
+>[!Proof]
 >假设$(r_i,a_i)\rightarrow (r,a)$，则必有一正整数$N$使得：
 >$$\forall i>N: |r_{i} -r|<1, |a_{i}- a|<1$$
 >此时我们能得知：
@@ -88,6 +98,7 @@ $$A_{\bullet}f(\bullet) := \lambda(r,a). \frac{1}{\mu(B(r,a))}\int_{B(r,a)} f \ 
 若$f$是$R^n$上某一开集$X$上的一局部可积向量值函数，定义$f$的*Hardy-Littlewood最大值函数*为：
 $$H f := \lambda x. \sup_{r>0} A_{r}|f|(x)$$
 此函数是可测的
+>[!Proof]
 >可测性可以由分析$(a,+\infty)$的原象得到
 
 这个函数可以理解为$f$在$a$点的任意开球上的平均值函数的上界
@@ -95,6 +106,7 @@ $$H f := \lambda x. \sup_{r>0} A_{r}|f|(x)$$
 ### 无名引理
 若$\mathcal C$是一$R^n$中开球组成的集合，令$U = \bigcup_{B\in\mathcal C} B$。则对任意小于$\lambda(U)$的正实数$c$，我们都可在$\mathcal C$中选择有限个互相不相交的$B_{i}$使得
 $$\sum\limits_{i} \lambda(B_{i}) > 3^{-n}c$$
+>[!Proof]
 >证明：由lebesgue测度的正则性，我们可以找到测度大于$c$的$U$的子集$K$。我们在构成$U$的开球中选择$K$的有限覆盖$A_{i}$。取$A_{i}$中半径最大的元素为$B_{1}$，再在$A_{i}$中取*和前面取得的任意元素都不交*的元素中半径最大的元素为$B_{i}$。则当取集合操作完毕时我们能得到半径单调递减的有限开球列$B_{i}$
 >此时对于任意$A_{i}$，要么$A_{i}$就在就是某一个$B_{j}$，要么与某一个$B_{j}$相交。若$A_{i}$与某一个$B_{j}$相交，则取指标最小的与$A_{i}$相交的集合$B_{k}$。由于我们的取值总是取得的满足条件的半径最大的元素，所以$B_{k}$的半径不小于$A_{i}$。设中心点和$B_{k}$相同且半径三倍于$B_{k}$的开球为$B_{k}^{*}$由三角不等式可以证明$A_{i}\in B_{k}^{*}$。从而：
 >$$\lambda(K) \leq \lambda(\bigcup_{k} B_{k}^{*}) \leq \sum\limits_{k} \lambda (B_{k}^{*}) = 3^{n} \sum\limits_{k} \lambda (B_{k})$$
@@ -106,6 +118,7 @@ $$\sum\limits_{i} \lambda(B_{i}) > 3^{-n}c$$
 
 存在某一正实数$C$使得对于任意$f\in \mathcal L_{1} (R^{n},\lambda,\mathbb E)$和任意正实数$\alpha$有：
 $$\lambda(\{x:Hf(x)>\alpha\}) \leq \frac{C}{\alpha} \int_{R^{n}}|f| \ d\lambda$$
+>[!Proof]
 >设$E_{\alpha} := [Hf>\alpha]$，则对于任何$x\in E_{\alpha}$都能找到一$r_{x}$使得$A_{r_{x}}|f|(x)>\alpha$。对于任意$c<\lambda(E_{\alpha})$，我们使用[[#无名引理]]选择出$n$个不交开球$B_{j} = B(r_{j},x_{j})$使得$\sum_{j} \lambda(B_{j})>3^{-n} c$。我们得到了：
 >$$c<3^{n}\sum\limits_{j}\lambda(B_{j}) \leq \frac{3^{n}}{\alpha} \sum\limits_{j} \int_{B_{j}}|f| \ d\lambda \leq \frac{3^{n}}{\alpha} \int_{R^{n}}|f| \ d\lambda$$
 >由于$c$可以被设置为任何小于$\lambda(E_{\alpha})$的值，我们得到了
@@ -114,7 +127,7 @@ $$\lambda(\{x:Hf(x)>\alpha\}) \leq \frac{C}{\alpha} \int_{R^{n}}|f| \ d\lambda$$
 ## lebesgue微分定理
 ### 通过开球上的平均值还原局部有限的$R^{n}$Borel测度的导数
 若在某一$R^{n}$开集$X$上有$f\in \mathcal L_{1,loc} (X,\lambda,\mathbb E)$，则对于几乎处处的$x$有$\lim_{r\rightarrow 0} A_{r}f(x) = f(x)$
-
+>[!Proof]
 >我们可以只考虑$r$小于某实数的$R$情况，因为极限过程可以限制到任何一个滤子上。从而可以设$f$在$B(R,x)$上是向量值可积的。
 >****
 >若$\varepsilon>0$，我们可以找到一连续函数$g$使得$|f-g|_{\mathcal L_{1}}<\varepsilon$。
@@ -149,6 +162,7 @@ $$L_{f} = \left[ \lim_{r\rightarrow 0} \frac{1}{\lambda(B(r,x))}\int_{B(r,x)} |f
 
 ### 若$f\in \mathcal L_{1,loc} (X,\lambda,\mathbb E)$，则$f$的Lebesgue集合的补是零测的
 设$X$是${\mathbb R}^n$一子集，若$f\in \mathcal L_{1,loc} (X,\lambda,\mathbb E)$，则$f$的Lebesgue集合的补是零测的
+>[!Proof]
 >对任意$e\in \mathbb E$和$X$中有界集合，
 >$$\int_{K}|f(x)-e| \ d\lambda \leq |\kappa_{K}f|_{\mathcal L_{1}} + |e| \lambda(K)$$
 >从而$f_{e} :=\lambda x. |f(x) - e|$是局部可积分的。
@@ -180,6 +194,7 @@ $$L_{f} = \left[ \lim_{r\rightarrow 0} \frac{1}{\lambda(B(r,x))}\int_{B(r,x)} |f
 $$\lim _{r\rightarrow 0^{+}} \frac{1}{\lambda(E_{r})} \int_{E_{r}} |f -f(x)| \ d\lambda = 0$$
 和
 $$\lim _{r\rightarrow 0^{+}} \frac{1}{\lambda(E_{r})} \int_{E_{r}} f  \ d\lambda = f(x)$$
+>[!Proof]
 >简单考虑
 >$$\begin{align} \frac{1}{\lambda(E_{r})} \int_{E_{r}} |f -f(x)| \ d\lambda \leq&  \frac{1}{\lambda(E_{r})} \int_{B(r,x)} |f -f(x)| \ d\lambda\\ \leq &  \frac{1}{\alpha\lambda(B(r,x))} \int_{B(r,x)} |f -f(x)| \ d\lambda  \end{align}$$
 >并应用[[#若$f in mathcal L_{1,loc} (X, lambda, mathbb E)$，则$f$的Lebesgue集合的补是零测的]]即可
@@ -207,7 +222,7 @@ $$\nu = \lambda + \rho, \ d\rho = \frac{d\rho}{d\mu} d\mu, \ \lambda \perp \mu$$
 
 ### 无名引理
 若可测空间$(X,\mathcal A)$上有两测度$\mu,\nu$，则要么$\mu \perp \nu$，要么存在一正数$\varepsilon$和一$\mu$下正测度集合$A$使得在$A$上$\nu\geq \varepsilon \mu$(也就是说$A$是$\nu-\varepsilon \mu$正集)
-
+>[!Proof]
 >将$X$在$\nu-i^{-1}\mu$的意义下Hahn分解至$P_{i}\cup N_{i}$，设$P:= \bigcup_{i} P_{i}, N:= \bigcap_{i} N_{i}$，则$P = X-N$。
 >根据定义$N$为$\nu-i^{-1}\mu$的负集，从而有$0\leq \nu(N)\leq i^{-1}\mu(N)$，可以得知$\nu(N) = 0$。
 >若$\mu(P) = 0$，则满足$\nu \perp \mu$
