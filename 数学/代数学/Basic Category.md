@@ -174,4 +174,5 @@ If $\mathscr G: D\rightarrow C$ has a left-adjoint $\mathscr F: C\rightarrow D$ 
 
 
 
-- [ ] Equalizers
+
+
