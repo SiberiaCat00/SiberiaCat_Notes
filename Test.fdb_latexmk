@@ -1,0 +1,17 @@
+# Fdb version 4
+["pdflatex"] 1741853836.33731 "Test.tex" "Test.pdf" "Test" 1741853837.23369 0
+  "Test.aux" 1741853837 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
+  "Test.tex" 1741852810 86 bc98ded5b67d33c45daf9b765c258f38 ""
+  "g:/Program Files/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb" 1741835129 35752 024fb6c41858982481f6968b5fc26508 ""
+  "g:/Program Files/texlive/2025/texmf-dist/tex/latex/base/article.cls" 1741836398 20144 63d8bacaf52e5abf4db3bc322373e1d4 ""
+  "g:/Program Files/texlive/2025/texmf-dist/tex/latex/base/size10.clo" 1741836398 8448 5cf247d4bd0c7d5d711bbbdf111fae2e ""
+  "g:/Program Files/texlive/2025/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def" 1741836379 29785 9f93ab201fe5dd053afcc6c1bcf7d266 ""
+  "g:/Program Files/texlive/2025/texmf-dist/web2c/texmf.cnf" 1741835071 42148 61becc7c670cd061bb319c643c27fdd4 ""
+  "g:/Program Files/texlive/2025/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1741852446 5512741 49b7a61618036650be913cddc253af70 ""
+  "g:/Program Files/texlive/2025/texmf-var/web2c/pdftex/pdflatex.fmt" 1741852631 3346230 f86c4a32ec0f96d54fbd822ec78ee85f ""
+  "g:/Program Files/texlive/2025/texmf.cnf" 1741838139 713 e69b156964470283e0530f5060668171 ""
+  (generated)
+  "Test.aux"
+  "Test.log"
+  "Test.pdf"
+  (rewritten before read)
